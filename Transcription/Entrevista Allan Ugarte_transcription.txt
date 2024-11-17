@@ -466,11 +466,11 @@
 [1449.48 - 1452.48]  para que sea local
 [1452.48 - 1455.48]  y que aplique localmente
 [1455.48 - 1458.48]  pero que no deje de conversar por fuera
-[1458.64 - 1461.64]  y que no se ha podido ver
-[1461.64 - 1464.64]  en las normas internacionales junto con el ámbito local
+[1458.64 - 1461.64]  y por lo menos con las organizaciones
+[1461.64 - 1464.64]  junto con el ámbito local
 [1464.64 - 1467.64]  y dentro de las empresas también
 [1467.64 - 1470.64]  tienen un campo para actuar
-[1470.64 - 1473.64]  ya bueno, nos quedamos
-[1473.64 - 1476.64]  esa era la entrevista, gracias a la Ana
-[1476.64 - 1479.64]  ahorita es la gradación
+[1470.64 - 1473.64]  esa era la entrevista
+[1473.64 - 1476.64]  gracias
+[1476.64 - 1479.64]  ahorita lo degracian
 [1479.64 - 1482.64]  25 minutos

@@ -1,6 +1,6 @@
 # Whisper-IA
  Este repositorio es para ejecutar a nivel local el modelo Whisper para transcribir audios de entrevistas para una tesis.
- Visitar carpeta documentación para leer los apartados tecnicos necesarios para replicar esta ejecución de manera adecuada.
+ Visitar requirements.txt para leer los apartados tecnicos necesarios para replicar esta ejecución de manera adecuada.
 
 Para informarte de manera previa sobre el funcionamiento, capacidades y requisitos de whisper
 se recomienda visitar y leer detenidamente la documentación:
@@ -9,9 +9,11 @@ https://github.com/openai/whisper
 Para ejecutar el modelo de whisper son necesarios diferentes pasos previos de instalación de 
 diferentes complementos previos, la presente documentación apunta a la ejecución de whisper
 mediante python en una tarjeta de video nvidia 3070ti, si no posees los conocimientos suficientes
-no ejecutes todo el apartado de instrucciones a continuación, ya que puede llevarte a no tener
+no ejecutes todo el apartado de instrucciones a continuación, ya que te puede llevar a no tener
 resultados, un resultado no esperado, o mal lograr tu computador.
 
+En caso contrario, debes adecuar el apartado técnico al nivel de tu hardware, nuevamente se recomienda
+leer la documentación de whisper para adecuar la ejecución a tu computador https://github.com/openai/whisper
 
 #-----------Requisitos previos de y Comandos de Instalacion-----------------------------------
 
