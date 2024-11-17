@@ -1,9 +1,3 @@
-#Instalación de whisper en Ejecutor local
-# Primero debe instalarse cuda desde la web de nvidia
-#git --version # verifica versión de git e indica si está instalado
-#pip install torch torchvision torchaudio #instala pytorch con soporte cuda
-#pip install git+https://github.com/openai/whisper.git #instala whisper despues que los pasos anteriores son correctos
-
 #--------------------
 
 # transcribe_audio.py
