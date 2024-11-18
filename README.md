@@ -24,8 +24,12 @@ leer la documentación de whisper para adecuar la ejecución a tu computador htt
 
 2.- Instalar CUDA Toolkit 11.8
     Descarga CUDA Toolkit 11.8 desde el archivo de descargas de NVIDIA.
+    https://developer.nvidia.com/cuda-toolkit-archive
     Durante la instalación, agrega las rutas al PATH del sistema.
-    
+    Adicionalmente instalar cuDNN que sea compatible con lo previamente instalado
+    https://docs.nvidia.com/deeplearning/cudnn/latest/installation/windows.html
+    Verificar versiones compatibles entre cuda y cuDNN aqui
+    https://docs.nvidia.com/deeplearning/cudnn/latest/reference/support-matrix.html#support-matrix
 
 3.- Instalar PyTorch Compatible con CUDA 11.8
     Ejecuta el siguiente comando en cmd para instalar PyTorch:
