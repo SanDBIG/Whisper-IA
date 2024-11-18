@@ -1,0 +1,3 @@
+2024-11-17 21:07:49,534 - INFO - Procesando archivo: Entrevista Allan Ugarte Archivo de Prueba.m4a
+2024-11-17 21:07:49,554 - INFO - Dispositivo seleccionado: cuda
+2024-11-17 21:10:15,246 - INFO - Transcripción completada: d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Data/Entrevista Allan Ugarte Archivo de Prueba.m4a -> d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Transcription/Entrevista Allan Ugarte Archivo de Prueba_transcription.txt
