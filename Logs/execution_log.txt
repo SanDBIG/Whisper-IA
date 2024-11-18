@@ -1,6 +1,0 @@
-2024-11-17 19:58:19,491 - INFO - Procesando archivo: Entrevista Allan Ugarte.m4a
-2024-11-17 19:58:19,535 - INFO - Dispositivo seleccionado: cuda
-2024-11-17 20:00:45,454 - INFO - Transcripci�n completada: d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Data/Entrevista Allan Ugarte.m4a -> d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Transcription/Entrevista Allan Ugarte_transcription.txt
-2024-11-17 20:13:09,959 - INFO - Procesando archivo: Entrevista Allan Ugarte.m4a
-2024-11-17 20:13:09,979 - INFO - Dispositivo seleccionado: cuda
-2024-11-17 20:15:36,709 - INFO - Transcripci�n completada: d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Data/Entrevista Allan Ugarte.m4a -> d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Transcription/Entrevista Allan Ugarte_transcription.txt
