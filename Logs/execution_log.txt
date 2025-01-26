@@ -1,3 +1,11 @@
 2024-11-25 19:34:06,297 - INFO - Procesando archivo: Entrevista 01 Tesis - Allan Ugartemp3.mp3
 2024-11-25 19:34:06,320 - INFO - Dispositivo seleccionado: cuda
 2024-11-25 19:36:09,274 - INFO - Transcripción completada: d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Data/Entrevista 01 Tesis - Allan Ugartemp3.mp3 -> d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Transcription/Entrevista 01 Tesis - Allan Ugartemp3_transcription.txt
+2024-12-09 23:59:21,511 - INFO - Procesando archivo: Entrevista 02 - Alfredo Unda.mp3
+2024-12-09 23:59:21,536 - INFO - Dispositivo seleccionado: cuda
+2024-12-10 00:03:28,140 - INFO - Transcripción completada: d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Data/Entrevista 02 - Alfredo Unda.mp3 -> d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Transcription/Entrevista 02 - Alfredo Unda_transcription.txt
+2024-12-12 23:53:28,937 - INFO - Procesando archivo: Entrevista 03 - Mario Devoto.mp3
+2024-12-12 23:53:28,960 - INFO - Dispositivo seleccionado: cuda
+2024-12-14 01:13:57,747 - INFO - Procesando archivo: Entrevista 04 - Camilo Trujillo.mp3
+2024-12-14 01:13:57,768 - INFO - Dispositivo seleccionado: cuda
+2024-12-14 01:28:38,785 - INFO - Transcripción completada: d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Data/Entrevista 04 - Camilo Trujillo.mp3 -> d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Transcription/Entrevista 04 - Camilo Trujillo_transcription.txt

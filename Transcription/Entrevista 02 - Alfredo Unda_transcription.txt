@@ -1,0 +1,440 @@
+[0.00 - 10.20]  Bueno, como marco general para empezar la entrevista, me gustaría que describieras
+[10.20 - 15.48]  el estado actual más o menos del mercado del carbono en Chile y la comparación entre
+[15.48 - 18.48]  América Latina y el resto del mundo.
+[18.48 - 29.40]  Bueno, es una pregunta grande. El estado actual del mercado de carbono en Chile está un poquito
+[29.40 - 37.84]  detenido porque por lo menos para el sector forestal no han habido más proyectos aparte
+[37.84 - 44.20]  del nuestro. Existe otro que es el de la Reserva Costera Valdiviana que también es antiguo,
+[44.20 - 50.74]  pero que tiene que ver con conservación. Y aparte de esos dos proyectos, en mi entendimiento
+[50.74 - 58.04]  no hay en este momento, lo cual puede verse que no hay una, a ver cómo lo dijera, una
+[58.04 - 65.40]  institucionalización que lo permita, que permita realizar esos proyectos. Están trabajando
+[65.40 - 72.48]  en ello en el Ministerio de Medio Ambiente, pero aún están, le faltan definiciones,
+[72.48 - 74.68]  que lo vamos a ver más adelante en la conversación.
+[74.68 - 82.04]  A diferencia del resto del mundo, él está detenido entonces.
+[82.04 - 86.32]  Por lo menos en la parte del sector forestal, acuérdate que yo estoy hablando de proyectos
+[86.32 - 91.32]  forestales de almacenaje de carbono, no sé respecto de los otros sectores.
+[91.32 - 100.56]  Ah sí, sí, sí, sí, entiendo que es tu especialidad. Bueno, la otra pregunta, de hecho va hacia
+[100.56 - 107.12]  ese lado, que cuáles serías como los principales desafíos regulatorios y los operativos también
+[107.12 - 112.44]  para consolidar este mercado, para que empiece a avanzar más en el sector forestal.
+[112.44 - 121.12]  Bueno, el mercado de bonos de carbono se basa básicamente en la venta de los créditos de
+[121.12 - 128.60]  carbonos que genera un proyecto, en el sector forestal por lo menos. Y en ese sentido todavía
+[128.60 - 134.36]  el Ministerio, a ver, la Oficina de Cambio Climático del Ministerio todavía está en
+[134.36 - 141.96]  trámite de preparación de esos proyectos, digamos de los lineamientos que permitan que
+[141.96 - 153.56]  esos proyectos funcionen. Y la verdad es que se ve que han tenido bastante trabajo y han avanzado
+[153.56 - 159.44]  bastante. Hay una cosa que decir, cuando nosotros hicimos el primer proyecto en 2003,
+[161.96 - 167.44]  tuvimos por supuesto una carta de apoyo del gobierno de Chile a través de lo que en ese
+[167.44 - 172.32]  momento era la Comisión de Medio Ambiente, la CONAMA, que actualmente es Ministerio. Y en esa
+[172.32 - 178.84]  época como el proyecto estaba aprobado internacionalmente y había pasado por los
+[178.84 - 187.96]  estándares de una auditoría de TNC, no, no TNC, de Tup-Sup, una de las dos de Alemania, estaba
+[187.96 - 194.88]  aprobado a nivel del MDC, entonces, MDL, perdón, y entonces ellos también lo aprobaron sin mayor trámite,
+[194.88 - 204.40]  porque no habían lineamientos o guidelines aquí en Chile para hacer proyectos, mucho más fácil.
+[204.40 - 211.84]  Pero con la transformación después en Ministerio, la cantidad, para decirlo en forma simple,
+[211.84 - 218.48]  burocracia empezó a desarrollarse y ahí estamos, esperando que terminen de desarrollarse.
+[219.48 - 227.48]  Ya desde el 2003? No, no, en el 2003 se aprobó el proyecto nuestro por CONAMA.
+[227.48 - 235.44]  Ah, ya, ya. Y se aprobó fácil porque no sabían del tema, lo aprobaron solamente porque estaban
+[235.44 - 238.04]  aprobados internacionalmente, tampoco lo iban a aprobar de gratis.
+[240.88 - 248.32]  Y ahora cuando hemos querido hacer un segundo proyecto relativo a especies nativas de almacenaje
+[248.32 - 256.00]  de carbono, estamos en conversaciones con ellos y estamos avanzando, yo no diría que
+[256.00 - 262.32]  no están haciendo nada, pero todavía no se han tomado decisiones de cómo se va a operar.
+[264.88 - 272.12]  Esa es la parte como de la burocracia que me dice, que ahí está como la parte lenta donde está detenido.
+[272.12 - 280.44]  Voy a seguir con la siguiente pregunta porque igual va todo conectado.
+[282.44 - 288.64]  Bueno, estaba más o menos como al proyecto como más específicamente o lo que entiendas tú,
+[288.64 - 296.96]  como que ¿qué tipo de beneficios han recibido las comunidades dentro de estos proyectos de carbono?
+[297.96 - 307.96]  A ver, el proyecto se realizó con 24 propietarios pequeños y medianos de la mayoría del secano
+[307.96 - 318.52]  interior cercano a Santa Cruz y ellos firmaron un convenio comercial simple entre la empresa
+[318.52 - 322.48]  que era una empresa canadiense que iba a llevar adelante el proyecto.
+[322.48 - 323.48]  ¿Microtec?
+[323.48 - 333.88]  ¡Microtec! Y ellos, ahí tanto Microtec como las contrapartes se comprometieron a cumplir con sus
+[333.88 - 342.56]  deberes y derechos, que en el caso de Microtec correspondía a realizar toda la parte de
+[342.56 - 350.40]  almacenaje de carbono de las plantaciones que ellos realizaron y ellos se comprometían a toda la
+[350.72 - 357.88]  parte forestal de plantaciones que en esa época la hacían con AF mediante la ley 701.
+[359.48 - 367.64]  No sé si tú conoces la ley 701, duró hasta el 2012 y era un subsidio que a ti te pagaba todos
+[367.64 - 376.20]  los gastos de tu de tu reforestación, digamos por ejemplo 200 hectáreas tu reforestabas y todos
+[376.24 - 382.12]  los gastos que te ocurrían en comprar las plantulas, en cercar, en hacer la plantación,
+[382.12 - 389.32]  te los devolvían casi completamente una vez que al año tu demostrabas por un inventario hecho por
+[389.32 - 395.60]  CONA que entre el 80 por más del 80 por ciento de las plantaciones estaban vivas.
+[397.44 - 402.48]  Una vez que tu demostrabas eso te devolvían prácticamente si no todo casi todos los gastos.
+[403.48 - 410.76]  Entonces y eso es un sistema que funcionó bastante bien hasta 2012 y por eso que nosotros
+[410.76 - 417.28]  hicimos convenios con distintos propietarios en distintos años y ellos plantaron hasta 2012,
+[417.28 - 424.28]  en 2012 se terminó el subsidio y la gente dejó de plantar y nosotros dejamos de hacer proyectos
+[424.92 - 425.68]  con esa persona.
+[427.84 - 436.76]  Esa ley la que me dice la 701, ¿qué continuidad tuvo más o menos como a la actualidad? No la
+[436.76 - 446.96]  oíco. La ley 701 es una ley del 1974 que se originó para en el fondo llevada adelante a las
+[446.96 - 456.28]  plantaciones forestales comerciales grandes que hay en el sur Arauco, Mininco, Maciza y de eso
+[456.28 - 460.88]  podríamos hablar varias horas, no creo que te interese tanto, pero esa ley la podía utilizar
+[460.88 - 466.84]  cualquiera que tuviera un previo en la modalidad que te expliqué de que tú hacías los gastos,
+[466.84 - 472.24]  por supuesto hacías un convenio con CONA y ellos te visitaban, te aprobaban que podías hacer
+[472.24 - 477.60]  proyectos, había un vivero disponible que te iba a producir las plantulas, en fin estaba todo el
+[477.60 - 483.92]  sistema armado y así mucha gente reforestó, no solamente los propietarios que trabajaban con eso.
+[486.28 - 492.64]  Era muy buen dato ese de la ley, no lo conocí. Deberías verla porque la ley también dice que por
+[492.64 - 500.24]  ejemplo tú reforestabas tu 100 hectáreas, el CONAF te devolvía casi el total de lo gastado al
+[500.24 - 505.72]  año una vez que tuve mostrado la sobrevivencia, pero una vez que tu cortabas el pino, el eucalipto,
+[505.72 - 511.12]  en 8 o 20 años dependiendo de la rotación, tu estabas obligado a plantar de nuevo
+[512.72 - 521.84]  y ahí no se te devolvía nada porque tú ya habías hecho el esfuerzo y la ley estaba hecha de esa manera.
+[523.68 - 529.16]  Le voy a dar un seguimiento porque la ley no la ubica. Claro, si necesitas más información
+[529.16 - 543.32]  después me puedes pedir. Perfecto, sí. Busques en Google el decreto ley 701 y ahí va a salir todo el detalle.
+[546.84 - 552.76]  Voy a seguir con la otra pregunta, es bueno, asociada también al tema de las comunidades,
+[553.60 - 560.28]  más o menos como, no sé si necesariamente conflictos o tensiones surgen con mayor frecuencia
+[560.28 - 567.80]  con las comunidades, al momento cómo desarrollar estos proyectos. Me imagino que igual debe haber
+[567.80 - 575.16]  como una negociación, algo. Es que en este caso la comunidad fue solamente los propietarios,
+[575.16 - 582.12]  pero hay que decir que hubo una evolución ambiental, la que te mencioné de Tubsud de
+[582.12 - 589.64]  Alemania, que hizo una auditoría a nuestro proyecto para ver los potenciales problemas
+[589.64 - 596.52]  ambientales o sociales y económicos que podría tener el desarrollo de la ley. Pero eso lo aprobaron
+[596.52 - 603.56]  porque la empresa no, la empresa misma no hacía las plantaciones sino que la hacían los propietarios
+[603.56 - 610.28]  y eran todas plantaciones pequeñas, 50 hectáreas, 100 hectáreas, 200 hectáreas, nunca se hizo una
+[610.28 - 616.16]  plantación gigantesca de miles de hectáreas, a pesar de que el total sumando las porciones sumó
+[616.16 - 623.80]  cercano 7.000 hectáreas, el total de lo plantado bajo el proyecto de almacenaje de carbón, pero 7.000
+[623.80 - 630.32]  hectáreas, ni siquiera alcanzó 7.000, pero eran porciones disgregadas en un espacio geográfico
+[630.32 - 637.72]  grande, entonces no había una plantación gigantesca que podría tener un impacto mucho mayor como
+[638.04 - 644.40]  tu has visto posteriormente con los incendios, para decir uno de los problemas porque las plantaciones
+[644.40 - 649.68]  realmente han sido un problema en este momento, las plantaciones de gran escala. Sí, a gran escala, claro.
+[651.20 - 656.60]  Yo imaginaba, he tenido entrevistas con otros expertos, me han mencionado como bastante el tema
+[656.60 - 665.44]  como de la gestión de los predios, como que a veces han tenido problemas en que no se trabajan
+[665.44 - 671.92]  como de manera correcta las plantaciones. Hay un montón de problemas y para eso existe ahora la
+[671.92 - 679.60]  certificación FSC, yo también fui auditor FSC, pero al comienzo esas auditorías funcionaron bien,
+[679.60 - 686.00]  pero con el tiempo después empezaron a perder un poquito de calidad por si lo dices.
+[688.00 - 695.20]  Suponía que la auditoría FSC iba a certificar los aspectos ambientales, sociales y económicos de
+[695.20 - 702.88]  las plantaciones para evitar los problemas que tú menciones, pero eso ha sido por verdad hasta por ahí
+[702.88 - 710.92]  no más, en algunos casos sí, en otros no tanto, yo dejé de ser auditoría justamente por ese motivo,
+[710.92 - 716.56]  hace ya muchos años. ¿Hay muchas problemáticas que vas a hacer?
+[718.88 - 724.04]  Es que lo que, ahí entramos ya en problemas que no tienen que ver con el proyecto de carbono,
+[724.52 - 732.84]  porque estamos poniendo a hablar de certificación FSC y quizás no es el tema que yo tengo que hablar.
+[734.04 - 740.92]  Igual si me pueda hablar un poco y después lo puedo ir incluyendo lo que sí o que no,
+[740.92 - 747.12]  porque igual me interesa saber, ¿no está tan claro a fondo estos temas con la información?
+[747.12 - 753.32]  Mira, para decirlo en forma más resumida, en mi opinión respecto a las plantaciones,
+[753.32 - 759.04]  las plantaciones grandes hicieron mucho daño porque destruyeron bosques nativos,
+[759.04 - 766.72]  sobre todo en esta región el bosque maulino prácticamente desapareció y fue reemplazado
+[766.72 - 774.40]  por plantaciones gigantes. De pinoyocalipto. Pinoyocalipto, y tú tienes que pensar que
+[774.40 - 780.20]  existen tres millones de hectáreas, básicamente ellos no lo reconocen así,
+[780.20 - 785.92]  pero básicamente los tres millones de hectáreas reemplazaron bosque nativo en gran parte.
+[787.32 - 791.64]  No siempre porque está la zona de los arenales que no tenían mucha vegetación,
+[791.64 - 799.88]  pero en general fue un reemplazo que evidentemente causó daño por disminución de ecosistemas nativos,
+[799.88 - 808.08]  fauna, impactos en el ciclo del agua, una cantidad de cosas que se han detallado en la bibliografía.
+[809.48 - 813.88]  A veces son como más o menos el tipo de problemas que me gustaría andar,
+[813.88 - 816.08]  porque igual eso es un problema social súper grande.
+[816.08 - 817.56]  Claro que sí.
+[817.56 - 823.48]  Porque si hay problemas de agua ya que se sacan estos bosques nativos,
+[823.48 - 826.56]  eso afecta directamente a las comunidades, cómo viven.
+[827.24 - 833.16]  Sí, pero en el caso nuestro la compañía tuvo el cuidado de hacer un proyecto de pequeña escala,
+[834.28 - 838.40]  entonces los impactos negativos prácticamente no existían.
+[839.40 - 843.92]  No se hizo una plantación de 7 mil hectáreas de un paraguazo,
+[843.92 - 849.72]  sino que se hicieron pequeñas plantaciones en un sector geográfico grande,
+[849.72 - 853.72]  bastante grande más allá de una provincia.
+[854.72 - 862.68]  Entonces no hay impactos notables por el tamaño de las plantaciones.
+[864.08 - 872.76]  Y tampoco hubo conflicto con comunidades porque el convenio se hacía con propietarios pequeños
+[872.76 - 878.72]  y medianos que tenían entre 50, 100, 200, quizás 300, 500 hectáreas los más grandes.
+[879.72 - 885.64]  Y a su vez si tú tenías 500 hectáreas no tenías 500 hectáreas de plantación,
+[885.64 - 887.40]  sino que dentro de las 500 hectáreas,
+[887.40 - 892.72]  o sea las 500 hectáreas están desparramadas en un sector más grande de la propiedad de ese señor.
+[892.72 - 898.36]  Entonces él tenía varios paños con plantación que no eran 500 hectáreas,
+[898.36 - 901.72]  sino la suma de varias superficies pequeñas.
+[901.72 - 910.36]  Claro, eso es como la aprobación de ese proyecto.
+[910.36 - 918.48]  Bueno, eso aprobó el proyecto en el MDL, después en la auditoría de Alemania y por último la CONAMA.
+[918.48 - 926.12]  No, nunca tuvo un conflicto con comunidades como las que tienen las grandes empresas de España.
+[926.12 - 932.28]  Bueno, vamos a seguir con otra pregunta.
+[932.28 - 942.00]  Esta es relacionada a qué criterios deberían ser prioritarios al seleccionar proyectos para los
+[942.00 - 947.04]  bonos de carbono en Chile. Considerando tanto como la viabilidad económica,
+[948.48 - 953.64]  algo de lo que hemos hablado, pero al mismo tiempo fijándonos en la otra parte que también hemos hablado,
+[953.64 - 959.20]  que es como lo social y ambiental, cuál sería como la conjunción correcta de tres criterios?
+[959.20 - 972.84]  Bueno, primero existe, no sé si conoces VERRA, VERRA es el organismo que permite la inscripción
+[972.84 - 982.40]  de proyectos aprobados, ellos aproban los proyectos. Entonces el primer punto que tienes que tomar en
+[982.40 - 985.68]  cuenta es que tú para hacer un proyecto de almacenaje de carbono en el sector forestal,
+[985.68 - 990.64]  tienes que tener una metodología que esté aprobada en VERRA, que nosotros tenemos.
+[991.72 - 998.96]  Es lo primero que se hizo, incluso se hizo antes que existiera VERRA cuando era BCS y cuando había
+[998.96 - 1004.08]  MDL, el mecanismo de desarrollo limpio, el proyecto nuestro está aprobado en el MDL y en BCS y
+[1004.08 - 1010.76]  posteriormente en VERRA. Entonces, si tú quieres hacer un proyecto de almacenaje de carbono en el
+[1010.76 - 1017.16]  sector forestal, tienes que tener una metodología aprobada y puede ser la nuestra o puede ser la de
+[1017.16 - 1023.12]  otros proyectos forestales en el mundo que hayan desarrollado proyectos que sean aprobables en el
+[1023.12 - 1030.00]  caso chileno. Claro, en el caso chileno está VERRA, Gold Standard y el MDL que me has dicho.
+[1030.00 - 1036.96]  Para hacer cualquier proyecto primero tienes que tener alguna aprobación de uno de esos entes,
+[1036.96 - 1044.28]  porque esos son los reguladores que te dicen si cumple si no cumple y además te siguen
+[1044.28 - 1053.32]  controlando después lo que tú haces. Es un poco parecido a la FSC pero más detallado, más fino.
+[1055.80 - 1061.56]  Y referente como al criterio del impacto social y ambiental,
+[1061.88 - 1071.72]  todo está encajado dentro de esa metodología. Claro, y además los ejecutores del proyecto
+[1071.72 - 1085.80]  Microtech se preocuparon por ejemplo en el 2007 se visitó la CONAP de Rancagua y se le regaló
+[1086.36 - 1095.96]  la inoculación de las plantaciones con pequeños precipitarios que tienen producción de miel
+[1095.96 - 1103.44]  con TI. Eso no tenía que ver con el proyecto de almacenaje sino fue un agregado para darle
+[1103.44 - 1113.88]  un carácter más social a lo que se estaba planteando. Super bueno eso. Voy a seguir con
+[1113.88 - 1121.64]  la siguiente pregunta. Es básicamente a los estándares que hablábamos recién, es cómo influye
+[1122.84 - 1128.24]  la falta de un estándar global. Ya aquí como mirándolo a un nivel un poco más macro,
+[1128.24 - 1133.76]  o un estándar global en los bonos de carbono, en la credibilidad y efectividad de los proyectos.
+[1133.76 - 1139.80]  ¿A qué te refieres con un estándar global? Porque los estándares son metodologías
+[1139.80 - 1145.16]  diferenciadas por BR, Gold Standard y un montón de empresas más. Pero no hay,
+[1145.16 - 1151.80]  y de hecho eso se ha estado discutiendo en la cop última que pasó, un estándar global para
+[1151.80 - 1158.44]  establecer el mercado del carbono. Está todo por zonas, países. Así es como ha funcionado,
+[1158.44 - 1164.20]  yo no te podría decir si es un mejor o peor porque nosotros funcionamos bien con lo que
+[1164.20 - 1170.40]  trabajamos. Entonces no hemos tenido problemas en ese aspecto. A lo mejor sería más útil,
+[1170.40 - 1178.84]  a lo mejor no es necesario, no lo sé. O sea, bueno para usted su proyecto ha funcionado bien
+[1178.84 - 1186.52]  las metodologías y el sistema. Sí, ha funcionado bien, no solamente por las metodologías,
+[1186.52 - 1193.44]  sino porque se ha sido muy cuidadoso con el control y los cumplimientos de todos los procesos
+[1193.44 - 1199.20]  al detalle. Que se yo, lo relacionaba con el medio ambiente, lo relacionaba con los pequeños
+[1199.20 - 1206.72]  propietarios, la medición de los inventarios de carbono que es caro. Y todo eso está público,
+[1206.72 - 1213.72]  es parte de lo que BR tiene. Entonces se ha cumplido con todo lo que te exigen para que
+[1213.72 - 1221.84]  el proyecto no tenga problemas. Incluso la venta de los créditos se hizo una venta parcial porque
+[1221.84 - 1228.04]  como los árboles después se iban a cortar, hubo que descontar casi la mitad de los créditos y
+[1228.04 - 1233.32]  dejarlos en reserva por si se cortaban las plantaciones. Aunque después estaban obligados
+[1233.32 - 1238.88]  los propietarios, acuérdate según la ley, a reforestar de nuevo. Pero eso ya es un problema
+[1238.88 - 1247.40]  de ellos, no nuestro. Pero ahí igual que dejar un fondo base guardado de créditos que no se vendían
+[1247.40 - 1255.44]  para evitar cualquier problema. O sea hay un incendio, cualquier cosa. Cualquier contingencia,
+[1255.44 - 1259.60]  ya sea como por mal manejo, temas de incendios como me dice, siempre se deja como una reserva.
+[1259.60 - 1267.32]  También se dejaba bien claro en el convenio con el propietario que él debía avisarnos si vendía
+[1267.32 - 1275.00]  el predio, si transfería los créditos o no los transfería, etcétera. O si cortaba o cualquier
+[1275.00 - 1287.32]  cosa que afectara el vos quien pide tenía que ser informado. Además de que ellos tenían que cumplir
+[1287.32 - 1293.72]  con la ley 701, si no es una cosa que me pagaron y chavo pescado, no tengo que cumplir que eso va a
+[1293.72 - 1298.96]  estar cubierto y los trámites que yo haga de corta, de raleo, en fin, no voy a hacer con la
+[1298.96 - 1304.84]  aprobación de Conaz cuando llegue el momento. No es una cosa al lote. Lo mismo pasa con la ley
+[1304.84 - 1308.76]  de bosque nativo que no funciona tan bien como eso, pero que es parecida.
+[1312.40 - 1316.16]  Me gusta escuchar esas cosas de la gente, de los expertos.
+[1319.72 - 1328.28]  Bueno, voy a seguir con la siguiente pregunta. Es cómo básicamente encontrar medidas necesarias
+[1328.28 - 1337.16]  que garanticen la implementación justa o que beneficie de manera directa a las comunidades
+[1337.16 - 1340.52]  involucradas. Estás pensando un poco más allá del beneficio del bono en sí.
+[1342.52 - 1348.68]  Esa es una muy buena pregunta, pero es un poco difícil de responder porque al final depende
+[1349.44 - 1355.80]  de la calidad con que tú haces un proyecto y no solamente de la calidad,
+[1355.80 - 1361.92]  sino que y aquí yo no te he contado lo principal del beneficio para los propietarios y es que
+[1364.64 - 1368.60]  llegaba un momento de vender los créditos que ocurrió casi todo en el 2022.
+[1368.60 - 1381.08]  En el acuerdo inicial que mencionaba yo de antes entre el propietario y la empresa,
+[1381.08 - 1386.60]  se decía que los créditos serían transferidos, la propiedad de ellos, a Microtech.
+[1389.36 - 1396.12]  Y ahí inmediatamente tú puedes preguntarme qué pasaba con esos créditos. Bueno, ahí en el
+[1396.12 - 1407.16]  documento ese de colaboración comercial estaba claro que Microtech iba a vender los créditos
+[1407.16 - 1416.08]  internacionalmente y de la venta iba a descontar el costo de la micorrisa de los inoculantes en
+[1416.08 - 1427.08]  el vivero, el costo de la auditoría, el costo de los inventarios de carbono y todos los costos
+[1427.08 - 1433.36]  no relacionados con la parte forestal, o sea, en el fondo todos los costos relacionados con el
+[1433.36 - 1439.76]  almacenaje de carbono y su venta en esas plantaciones no iban a caer al propietario.
+[1439.76 - 1447.08]  Lo único que decía el propietario era invertir lo que siempre iba a ser que era hacer su plantación
+[1447.08 - 1451.16]  con CONAS, pero ese era un problema entre el propietario y el servicio forestal.
+[1453.60 - 1458.44]  O sea, si iba a ser la plantación y no iba a ser el almacenaje de carbono, igual iba a tener que hacer
+[1458.44 - 1464.24]  la misma historia. Y cuando se agregó lo del almacenaje de carbono en su proyecto, él no tuvo
+[1464.24 - 1471.96]  ningún costo relativo al negocio forestal. O sea, en buenas cuentas si tú tenías un preio y
+[1471.96 - 1479.60]  firmabas con nosotros, el único gasto tuyo era la firma del convenio, porque tú no pagabas ni los
+[1479.60 - 1486.96]  inoculantes ni todo el resto de las cosas que se tuvieron que hacer para lograr ese almacenaje.
+[1486.96 - 1489.04]  Ni el material ni la...
+[1489.04 - 1494.64]  Esto es importante que me lo entiendan, porque no todos los proyectos de carbono son así.
+[1494.64 - 1502.00]  Yo escuché otros en Chile que quisieron hacer proyectos y que no les resultó que solamente
+[1502.00 - 1511.64]  le iban a rendar el terreno a los pequeños propietarios, pero no le iban a dar nada de la
+[1511.64 - 1518.00]  venta, lo cual es un, dicho en muy buenas palabras, una estafa, un robo.
+[1518.60 - 1525.52]  Claro, sí. Es que han habido polémicas de ese tipo, no en Chile aún, pero sí por ejemplo en
+[1525.52 - 1533.48]  Colombia, en Perú, se han observado muchos de esos tipos de conflictos. En México también,
+[1533.48 - 1537.32]  se ha pasado bastante. Entonces, es bien importante porque...
+[1537.32 - 1544.64]  Eso es clave. Porque voy a ir yo a tu previo a hacer un proyecto de carbono, aunque yo no te cobre
+[1544.64 - 1550.76]  nada por todos estos trámites de la parte de carbono del proyecto y despondo viendo los créditos,
+[1550.76 - 1558.16]  resulta que no te doy ninguno. Eso es una estafa vulgar y silvestre. Aquí no, aquí descontados
+[1558.16 - 1562.48]  los costos de la parte de carbono, que tú no los habías hecho, lo hizo la empresa,
+[1562.48 - 1571.88]  lo que quedaba como ganancia neta se repartía 50 y 50. 50 para ti, 50 para mi empresa, lo que es justo.
+[1572.64 - 1576.96]  50 microtex, 50 los... Claro, porque tú habías puesto el
+[1576.96 - 1584.04]  predio y nosotros habíamos puesto la tecnología y el savoir de cómo hacer todo el asunto. Los
+[1584.04 - 1593.40]  inventarios, los inoculantes, la auditoría, las inscripciones. En fin, todo lo que fuera
+[1593.40 - 1599.04]  relativo a la parte de almacenaje del carbono, el propietario no gastaba nada.
+[1599.04 - 1611.04]  Y recibió, a pesar de eso, porque le correspondía, el 50% del neto, recontados los créditos,
+[1611.04 - 1617.12]  que era lo lógico. Si yo gasté, yo microtex, gasté todas estas cosas, tenía que recuperar esa
+[1617.12 - 1624.20]  plata y de lo que queda de ganancia, 50 para ti, 50 para mi, que es lo correcto, porque tú pusiste
+[1624.20 - 1628.48]  el predio y yo puse la tecnología. Otra cosa que leí que era interesante en el
+[1628.48 - 1633.72]  proyecto como para complementar esto era que ustedes como que les enseñaban esta técnica del
+[1633.72 - 1640.88]  microrrizar. ¿Cuál es que saber para hacer bien eso? No, eso no lo hicimos porque no era el
+[1640.88 - 1648.88]  objetivo del proyecto y porque... A ver, ¿cómo explico eso? Era un proceso un poco complicado y
+[1648.88 - 1655.00]  no era alguien... No es llegar y microrrizar. Primero lo produje yo en un invernadero,
+[1655.00 - 1660.28]  pero después ellos mejoraron la tecnología y después la han vuelto a mejorar y un proceso que
+[1660.28 - 1664.96]  es relativamente rápido una vez que se hace y no implicaba un costo para él tampoco.
+[1666.88 - 1672.32]  Entonces no es llegar y es como poner a una persona a hacer cirugía y le hiciste un training rápido,
+[1672.32 - 1677.80]  no creo que sea muy conveniente. Sí, claro, porque yo igual tengo entendido que esas cosas igual son
+[1677.96 - 1683.48]  conocimientos técnicos para específicos, hay que entender bien cómo hacer un microrrizar.
+[1683.48 - 1688.92]  Claro, pero eso no quiere decir que tú no puedes hacerlo si tú no quieres, le puedes preguntar a
+[1688.92 - 1693.72]  la universidad, mirar internet, hay investigadores que están haciendo fuera y dentro de Chile,
+[1693.72 - 1699.96]  todas esas cosas y tampoco un secreto. No, claro, pero pensando también en el año del proyecto.
+[1699.96 - 1712.12]  El costo. Si la planta valía 100 la plantula, producirla, agregar la tecnología subía el costo
+[1712.12 - 1717.52]  de la planta casi 1000, por decir una cifra, a lo mejor es más o menos, y tú no ibas a meterte en
+[1717.52 - 1723.32]  ese problema porque ya la persona que normalmente reforestaba en Chile está acostumbrada a producir
+[1723.32 - 1729.48]  las plantas como lo hacen los viveros y no te ibas a meter en trabajo, a veces eran libros comerciales,
+[1729.48 - 1734.48]  no era tu vivero, sino que tú les compras a los que hay, o pinos, o cariños, ellos sabían lo que
+[1734.48 - 1741.04]  estaban haciendo, entonces era tampoco llegar y decir, ya yo voy, las personas no iban a hacer eso.
+[1744.84 - 1748.88]  Es como que tú te vas a meter a una mecánica de auto, arreglar la auto y uno tiene que cuidar
+[1748.88 - 1758.04]  mecánica, o sea, me lo arreglan, pero yo le pago y se acabó el problema. Es una cosa más compleja
+[1758.04 - 1766.44]  que hay que hacerla bien para que la cosa funcione y no es que no sea capaz uno de hacerlo,
+[1766.44 - 1773.20]  pero es que como que uno tiene un rol que cumplir en un proyecto.
+[1773.20 - 1774.76]  No, claro.
+[1774.76 - 1780.44]  Ahora, no todos los proyectos de almacenaje de carbono son como los que hicimos nosotros,
+[1780.44 - 1785.04]  hay de distintas cantidades y tú lo puedes ver ahí en la lista de proyectos de carbono que están
+[1785.04 - 1788.00]  en la página del IPCC.
+[1788.00 - 1799.92]  Sí, he mapeado los de BR, bueno, los de los tres mecanismos, BR, Gold Standard, MDL,
+[1799.92 - 1808.04]  hay distintas formas de hacerlo que dan el mismo resultado.
+[1808.04 - 1817.08]  O sea, en el fondo hacer crecer más plantas más pronto, más sana y más carbono que si no lo hiciera,
+[1817.08 - 1822.28]  si no aplicara la tecnología las plantas no crecerían igual.
+[1822.28 - 1826.80]  Que bueno.
+[1826.80 - 1834.12]  Ya, sí, no, me queda claro, estoy procesando aún. Voy a seguir con la otra pregunta.
+[1834.12 - 1841.76]  Bueno, que es más o menos como el proceso de toma de decisiones,
+[1841.76 - 1846.88]  si las comunidades participan en el proceso de toma de decisiones,
+[1846.88 - 1853.00]  esto como la implementación del proyecto en sí de los bonos,
+[1853.00 - 1857.40]  y es que hay participación de las comunidades,
+[1857.40 - 1860.88]  sus opiniones son vinculantes para esto.
+[1861.84 - 1867.16]  Mira, en el caso del Ministerio de Ambiente yo entiendo que ellos han estado haciendo consultas públicas
+[1867.16 - 1875.84]  cada vez que desarrollan las metodologías, pero yo no tengo conocimiento detallado de eso.
+[1875.84 - 1881.08]  Sí, no, es más que nada referido a que por ejemplo de este proyecto que estamos hablando,
+[1881.08 - 1886.64]  ya, no sé, las partes se ponen de acuerdo, por ejemplo, en las ganancias,
+[1886.72 - 1893.48]  la propuesta viene de manera previa, no sé, como todo ese tipo de cosas.
+[1893.48 - 1901.16]  Bueno, cuando yo empecé, empecé a contactar a ciertos pequeños propietarios del entorno de Santa Cruz y qué se yo,
+[1901.16 - 1909.96]  y hablaba con los dueños y les explicaba que se trataba y algunos quisieron participar y otros no.
+[1910.00 - 1917.24]  Y a medida que participaron algunos, la primera plantación, las primeras se hicieron en el 2003,
+[1917.24 - 1923.16]  y después se siguieron haciendo todos los años porque yo seguía yendo a terreno para explicarles de qué se trataba,
+[1923.16 - 1926.48]  y siempre habían nuevos interesados que querían participar.
+[1926.48 - 1935.28]  Y así es como llegamos a 24 propietarios más o menos, en el plazo que quedó entre 2003 y 2012,
+[1935.28 - 1942.60]  cuando ya no hubo más subsidios. Si hubiera habido todavía subsidios, a lo mejor todavía estaríamos haciendo proyectos, pero se perdieron los subsidios.
+[1945.40 - 1952.96]  Claro, ya, o sea, el proyecto de por sí está todo planificado de manera previa, ¿se les ofrece a los propietarios?
+[1952.96 - 1963.64]  Claro, claro, la parte, a ver, aclaremos bien las cosas, nosotros no plantamos, el que planta es el propietario,
+[1963.72 - 1973.40]  y eso estaba armado con la ley 701 desde el año 1974, es la ley, o sea, hacía tiempo que existía esa ley.
+[1973.40 - 1981.88]  Entonces, si tú querías plantar, si alguien quiere plantar, va a la CONAF y le hace un plan de manejo, un forestal acreditado con CONAF,
+[1982.64 - 1987.64]  se lo aprueban o no se lo aprueban porque van a necesitar el terreno, es todo un sistema que se conoce en el campo.
+[1988.64 - 1997.64]  La única diferencia es que en este caso nosotros tratábamos las plantulas en el vivero para que crecieran en mejor estado y almacenaran carbono,
+[1997.64 - 2002.64]  pero son como dos proyectos distintos casi, que se juntan.
+[2005.64 - 2012.64]  Entonces, no es algo que, o sea, por supuesto que a los propietarios se les explicaba de que se trataba todo el asunto,
+[2012.64 - 2026.64]  pero mucho o no se interesaban o lo entendían parcialmente o se arriesgaban porque les parecía buena idea, tú sabes, las cosas no son tan...
+[2028.64 - 2030.64]  Claro, nunca marchan perfecto.
+[2030.64 - 2038.64]  Y en el campo menos, es más complicado, de partida los que participaban tenían que tener la tenencia de su terreno aprobada,
+[2039.64 - 2046.64]  no tener problemas de ninguna clase, también eso lo pide CONAF cuando hace los proyectos de plantación, así que,
+[2047.64 - 2049.64]  toda parte de lo que funciona.
+[2049.64 - 2059.64]  Otra pregunta más es más o menos de visiones al futuro, es más o menos que,
+[2059.64 - 2069.64]  ¿qué conflictos podrían darse a futuro en el país, acá en Chile, con las comunidades referentes al mercado de los bonos del carbono?
+[2069.64 - 2073.64]  Entendiendo que el mercado va creciendo, que tiene una muy buena proyección.
+[2073.64 - 2085.64]  Bueno, más que con el mercado, es la forma en que tú manejas el territorio, el paisaje, y hasta aquí lo que se ha criticado prácticamente a todos los gobiernos
+[2085.64 - 2092.64]  es que dejaron el bosque nativo, que son como 17 millones de hectáreas, de lado,
+[2092.64 - 2098.64]  porque toda la industria forestal se concentró en las 3 millones de plantaciones,
+[2098.64 - 2105.64]  entonces, ahí hay como una situación rara porque tienes un país con 17 millones de hectáreas de bosque,
+[2105.64 - 2111.64]  que está medio degradado porque le meten los animales, porque no hay manejo, por los incendios,
+[2111.64 - 2115.64]  y mientras tanto tiene una porción más pequeña de 3 millones de hectáreas,
+[2115.64 - 2120.64]  que están super industrializadas y que tienen impacto ambiental porque están demasiado grandes,
+[2120.64 - 2125.64]  están demasiado concentradas y tienen problemas con las comunidades,
+[2125.64 - 2130.64]  como que ese es el único sector forestal y el otro no existe, y eso es un poco absurdo.
+[2130.64 - 2139.64]  Debería haber las dos cosas, o el bosque nativo debería estar manejado y ser restaurado,
+[2139.64 - 2143.64]  y debiera prohibirse que se hicieran cosas como meter los animales al bosque,
+[2143.64 - 2149.64]  porque los animales se comen la regeneración, y el bosque nativo se va a despojar,
+[2149.64 - 2155.64]  los animales se comen la regeneración y no hay regeneración de bosque, etcétera, etcétera,
+[2155.64 - 2162.64]  la cantidad de problemas es grande, las comunidades que tienen buena relación con el bosque
+[2162.64 - 2167.64]  no están siendo apoyadas como deberán ser, hay una cantidad de problemas ahí,
+[2167.64 - 2173.64]  que ya no dependen con proyectos de almacenaje de carbono, sino la forma en que tú manejas el territorio
+[2173.64 - 2176.64]  y conjunto con las comunidades como debería ser.
+[2176.64 - 2180.64]  La gestión pública con respecto a las comunidades.
+[2181.64 - 2188.64]  Claro, el servicio forestal, el servicio agrícola ganadero, el instituto de desarrollo agropecuario,
+[2188.64 - 2194.64]  son instituciones en que en cierto grado han manejado el trabajo con las comunidades relativamente bien
+[2194.64 - 2198.64]  en algunas partes, porque siempre hay ejemplos buenos y ejemplos no tan buenos,
+[2198.64 - 2203.64]  pero en general en el sector forestal ha quedado mucho más atrás de lo que es la agricultura
+[2203.64 - 2205.64]  o las plantaciones forestales.
+[2206.64 - 2212.64]  La ley forestal de bosque nativo costó 14 años para que lo aprobaran,
+[2212.64 - 2217.64]  y lo que aprobaron no tiene la calidad que tenía el 701, que era una ley de la época de la dictadura
+[2217.64 - 2219.64]  para favorecer las plantaciones.
+[2220.64 - 2224.64]  Entonces, no estamos con la misma calidad trabajando en el bosque nativo,
+[2224.64 - 2230.64]  y hoy en día, no sé si tú has oído hablar que Chile prometió en las NDC,
+[2230.64 - 2238.64]  recuperar 200.000 hectáreas de bosque para 2030,
+[2238.64 - 2243.64]  y eso no va a ocurrir, pero el Cienla con AP tiene un proyecto de 25.000 hectáreas
+[2243.64 - 2248.64]  con el Fondo Verde de Fao, de restauración con pequeños campesinos,
+[2248.64 - 2254.64]  contra 200.000 hectáreas que no las van a tener de aquí ni al 2040.
+[2254.64 - 2260.64]  Entonces, no hay un esfuerzo real de todos los gobiernos chilenos y del servicio forestal
+[2260.64 - 2264.64]  que estuviera al alcance de los problemas que Chile tiene,
+[2264.64 - 2269.64]  y al alcance del almacenaje de carbono que se requiere por todos los problemas
+[2269.64 - 2272.64]  que se nos vienen encima con el calentamiento de los bosques.
+[2272.64 - 2276.64]  Es como que estuviéramos sentados mirando cómo pasa todo.
+[2276.64 - 2286.64]  Hay un problema de la gestión, hay otro problema de planeación, calidad, me dices también, de la legislación.
+[2286.64 - 2290.64]  Y problemas de cumplir, si tú dices que vas a hacer esto, tienes que cumplirlo,
+[2290.64 - 2294.64]  y para eso tienes que tener las herramientas, tienes que tener las leyes, la metodología,
+[2294.64 - 2300.64]  el entrenamiento de la población, los días de campo,
+[2300.64 - 2303.64]  hay tantas cosas que en el pasado se hicieron,
+[2304.64 - 2310.64]  pero también tienen que estar a la escala, cada región debe estar bien armada haciendo eso.
+[2310.64 - 2313.64]  Pero eso no está ocurriendo.
+[2313.64 - 2319.64]  A nivel como del campo de los expertos, acá en lo forestal, que es lo que manejas tú,
+[2319.64 - 2323.64]  yo ahí no conozco muy bien la verdad.
+[2323.64 - 2331.64]  Hay buena calidad de profesionales, porque igual hay una cierta crítica de vuelta
+[2331.64 - 2336.64]  de que no hay preparación en los países latinoamericanos
+[2336.64 - 2342.64]  para poder llevar de mejor forma todo este tema del mercado del carbono.
+[2342.64 - 2346.64]  Esto en el caso chileno yo diría que no es cierto.
+[2346.64 - 2348.64]  En el caso chileno no.
+[2348.64 - 2352.64]  No porque profesionales hay, no basta con tener profesionales,
+[2352.64 - 2357.64]  uno puede ser muy buen profesional, pero si la ley no existe para yo poder hacer funcionar
+[2357.64 - 2362.64]  la restauración del bosque nativo en un sector con la comunidad, no lo puedo hacer.
+[2362.64 - 2365.64]  Entonces ahí es donde está el...
+[2365.64 - 2370.64]  La principal razón y que se viene hablando hace tiempo es que la famosa ley de bosque nativo
+[2370.64 - 2373.64]  que está incompleta, que es poco eficiente, etcétera, etcétera,
+[2373.64 - 2377.64]  debieran cambiarle el reglamento, esto lo vengo yo en 12 años,
+[2377.64 - 2380.64]  para hacerla más eficiente para que gente participe,
+[2380.64 - 2384.64]  para que se le hagan cursos, días de campo, de red, y se hagan proyectos demostrativos,
+[2384.64 - 2390.64]  cantidad de cosas que a cualquiera persona sin ser muy profesional se le ocurre que hay que hacer en terreno.
+[2390.64 - 2396.64]  No, no entiendo hacia dónde va el asunto.
+[2396.64 - 2400.64]  Ya, la... para seguir...
+[2400.64 - 2408.64]  O sea, eso ya son problemas que salen fuera de proyectos de carbono o no.
+[2408.64 - 2412.64]  Claro, es de la gestión pública.
+[2412.64 - 2417.64]  Es de la gestión de los proyectos forestales que debieran hacerse si queremos realmente
+[2417.64 - 2422.64]  recuperar 200.000 hectáreas de bosque.
+[2422.64 - 2426.64]  O sea, se está prometiendo lo que saben que no van a cumplir.
+[2426.64 - 2430.64]  Lo veo demasiado difícil tampoco, así como me lo planteas.
+[2430.64 - 2435.64]  Yo no puedo prometer algo que no vaya cumpliendo, entonces estoy mintiendo.
+[2435.64 - 2440.64]  Sí, básicamente sí.
+[2440.64 - 2444.64]  La penúltima pregunta es...
+[2444.64 - 2451.64]  Bueno, oportunidades emergentes en la participación de las comunidades
+[2451.64 - 2456.64]  dentro de toda la dinámica de los bonos del carbono acá en Chile.
+[2456.64 - 2460.64]  No sé qué más podrían aportar las comunidades.
+[2460.64 - 2463.64]  Mira, las comunidades podrían aportar muchísimo.
+[2463.64 - 2467.64]  Yo soy miembro de Restauremos Chicle, que es una organización muy buena
+[2467.64 - 2472.64]  que reúne a toda la gente de las provincias del norte al sur
+[2472.64 - 2476.64]  y en uno de los seminarios hace un año y medio.
+[2476.64 - 2479.64]  ¿Dónde, joder? En la Universidad de Higgins.
+[2479.64 - 2484.64]  Yo quedo impresionado por la cantidad de pequeños proyectos de gente que ha hecho
+[2484.64 - 2488.64]  por su cuenta recuperación de bosque o de vegetación nativa
+[2488.64 - 2491.64]  desde el norte de Chile hasta el sur.
+[2491.64 - 2496.64]  O sea, a pesar de todo lo que hemos hablado, existe la capacidad y el interés
+[2496.64 - 2499.64]  de la gente de las comunidades para hacer esas cosas.
+[2499.64 - 2504.64]  Y a veces lo han hecho poniendo ellos mismos su esfuerzo y su tiempo
+[2504.64 - 2507.64]  sin tener apoyo del Estado.
+[2507.64 - 2511.64]  Pequeñas comunidades mapuche, una señora por aquí que plantaron algo.
+[2511.64 - 2514.64]  Y eso es muy importante, es muy interesante.
+[2514.64 - 2520.64]  La capacidad de la gente está, pero hay que reforzarla, hay que facilitarle
+[2520.64 - 2527.64]  la parte de las leyes y de los reglamentos que te permiten hacer las cosas.
+[2527.64 - 2532.64]  Hay que entregarle algún fondo, entrenamiento. Eso se puede hacer.
+[2532.64 - 2536.64]  Yo no sé qué pasa en esta vez que la gente está como sentada esperando
+[2536.64 - 2540.64]  que le llegue la breve apelada en la boca.
+[2540.64 - 2542.64]  Toda la mano.
+[2542.64 - 2545.64]  Claro, las cosas hay que hacerlas, pero hay que moverse.
+[2545.64 - 2549.64]  Y yo no estoy hablando ni de derecha ni de izquierda, sino de todos los chilenos.
+[2549.64 - 2550.64]  Todos.
+[2550.64 - 2551.64]  ¿Espuerzo País?
+[2551.64 - 2553.64]  Claro.
+[2553.64 - 2557.64]  No sé si te sirve esa respuesta, pero evidentemente que la comunidad
+[2557.64 - 2559.64]  es el motor principal.
+[2559.64 - 2563.64]  Yo no puedo ir a hacer una restauración, una plantación de un bosque en un valle,
+[2563.64 - 2567.64]  si no hablo con la comunidad, porque son ellos los que van a estar siempre y yo no.
+[2567.64 - 2572.64]  Yo voy como técnico, como ingeniero, como lo que sea, y me voy.
+[2572.64 - 2578.64]  Pero los que se quedan ahí y que van a estar siempre influenciando el bosque positivo,
+[2578.64 - 2581.64]  negáticamente, son ellos. Ellos lo conocen mejor que yo.
+[2584.64 - 2587.64]  Totalmente de acuerdo contigo.
+[2587.64 - 2591.64]  Y la última pregunta es...
+[2591.64 - 2598.64]  Bueno, esto es más referente como a la composición del mercado,
+[2598.64 - 2605.64]  pero ¿qué si es que las comunidades pueden hacer aportes tangibles
+[2605.64 - 2610.64]  a que el mercado del carbono sea más robusto o más competitivo acá?
+[2612.64 - 2617.64]  Claro, de todas maneras, yo creo que siempre la comunidad es el centro de la cuestión.
+[2617.64 - 2622.64]  O sea, si tú vas a hacer, por ejemplo, un proyecto social de almacenaje de carbono
+[2622.64 - 2627.64]  con una comunidad que van a plantar un terreno de ellos que puede ser bastante grande,
+[2627.64 - 2633.64]  tienes que trabajar con ellos y ellos tienen que entender lo que tú vas a hacer.
+[2633.64 - 2635.64]  Y tú tienes que responderle todo eso.
+[2635.64 - 2642.64]  Porque si no, como te decía antes, los que van a determinar que esas plantas
+[2642.64 - 2645.64]  o esos bosques se recuperen son ellos, no yo.
+[2645.64 - 2648.64]  Por muy buenas ideas que tengan, tecnologías y yo,
+[2648.64 - 2653.64]  es la persona que está en terreno la que mantiene ese bosque en pie.
+[2654.64 - 2657.64]  Y eso es básico.
+[2657.64 - 2663.64]  Si no trabajas con las comunidades es como un disparate, un desastre.
+[2664.64 - 2669.64]  Ellas serían como el núcleo y el aporte de ellos sería ese, a tu parecer.
+[2669.64 - 2673.64]  El aporte de ellos es el principal porque ellos están ahí todo el tiempo.
+[2673.64 - 2679.64]  Entonces son ellos los que rigen o no rigen la planta, por decir una cosa sencilla.
+[2679.64 - 2684.64]  O que permiten que los animales entren y se comen la regeneración, lo cual no es bueno.
+[2684.64 - 2690.64]  Tienen que poner sus ganados en un lugar y que solamente tengan manejo ganadero acá,
+[2690.64 - 2692.64]  pero acá las forestas no la dañen.
+[2692.64 - 2693.64]  Y así hay una cantidad de cosas.
+[2693.64 - 2698.64]  Acá leña de los árboles que están secos y no derribar árboles que están en pie.
+[2698.64 - 2700.64]  Hay una cantidad de cosas.
+[2700.64 - 2703.64]  Cuando recogen, por ejemplo, mortilla y todas las cosas no madrero,
+[2703.64 - 2706.64]  también tiene que haber regulación y enseñarle a la gente,
+[2706.64 - 2710.64]  yo creo que ellos lo hacen bien porque si no, también, depredan esos recursos.
+[2710.64 - 2713.64]  Si tú sacas todo, no queda nada.
+[2713.64 - 2715.64]  O sea, todo esto es un manejo sustentable.
+[2715.64 - 2721.64]  Y la gente es muy inteligente y ellos se dan cuenta que si sacan todo lo que hay en el bosque se quedan pelados.
+[2721.64 - 2728.64]  Pero tú tienes que ayudarlo, dándole las facilidades para hacerlo y no complicándolo en la existencia.
+[2730.64 - 2735.64]  Y así hay una cantidad de ejemplos, mira, en internet, puedes encontrar cualquier tipo de cosas.
+[2736.64 - 2738.64]  Sí, sí, me consta.
+[2738.64 - 2741.64]  La mejora de la gestión.
+[2742.64 - 2747.64]  Bueno, estas son las preguntas que te quería hacer Alfredo.
+[2747.64 - 2750.64]  De verdad, muchas gracias.
+[2750.64 - 2751.64]  Te pasaste.
+[2751.64 - 2759.64]  No, mira, yo te quería decir, si se surgen dudas de otras cosas, pregúntame, las puedes mandar y yo te las contesto.

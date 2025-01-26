@@ -1,0 +1,747 @@
+[0.00 - 8.36]  Bueno, la primera pregunta que vamos con un marco general es ¿cómo describirías el
+[8.36 - 11.76]  estado actual del mercado de los bonos de carbono en Chile?
+[11.76 - 16.40]  Y en comparación también con otros países de la región latinoamericana y otro también
+[16.40 - 19.88]  un scope más tipo mundial, el mercado europeo.
+[19.88 - 27.76]  Vale, ya bueno, primero Diego, muchas gracias por la entrevista y para partir profundizando
+[27.76 - 31.44]  quiero, voy a hacer un poquito de academia contigo Diego.
+[31.44 - 32.44]  Sí.
+[32.44 - 37.52]  La diferencia entre bonos y créditos es distinta.
+[37.52 - 45.76]  Cuando tú hablas de bonos, hablas de una fuente de financiamiento de créditos de CO2,
+[45.76 - 49.84]  de financiar, cómo financiar proyectos de CO2.
+[49.84 - 55.48]  Y cuando hablas de créditos es como el resultado final de un proyecto.
+[56.32 - 58.32]  ¿Qué es un proyecto?
+[58.32 - 63.04]  Un proyecto es algo que capta o elimina partículas de CO2.
+[63.04 - 64.04]  Ya.
+[64.04 - 72.08]  Y eso pueden ser de distintos tipologías, las más comunes, la forestal, proyectos,
+[72.08 - 81.48]  procesos de fuentes de energía renovable, de manejo de vertedero, créditos de carbono
+[81.48 - 90.88]  azules que son los de humedales y de captación de otras cosas de fondo marino y puede haber
+[90.88 - 94.08]  algo más que por ahí se me esté creando, pero son como los generales.
+[94.08 - 95.08]  Ya.
+[95.08 - 102.20]  En cierta medida, cuando yo hablo de bonos es como decir hoy, es como que vayas donde
+[102.20 - 110.24]  tu papá y le decís, papá, sé que quiero emitir un bono por el término de mi carrera
+[110.28 - 112.64]  porque me quiero comprar un auto.
+[112.64 - 117.04]  Entonces, como tú sabes que yo voy a ingresar al final de año y voy a entrar a trabajar,
+[117.04 - 123.04]  quiero que me anticipe plata, digamos, que me hagáis un préstamo por 10 millones de pesos
+[123.04 - 128.04]  y para yo comprar un chupendo auto muy bonito con una bola de zorro y todo.
+[128.04 - 133.84]  Y le dice, pero tú sabes que yo al término de mi carrera voy a ingresar.
+[133.84 - 137.84]  Entonces tu papá hace una apuesta y dice, ya, sí, te voy a pasar los 10 millones de pesos
+[138.04 - 143.84]  y sé que al término de tu carrera y los primeros dos años no me van a pagar nada,
+[143.84 - 150.84]  pero al término del año dos de habiendo ingresado a la carrera, te paso.
+[150.84 - 153.44]  Tú me vas a devolver 15 millones de pesos.
+[153.44 - 156.64]  Ya acepto las condiciones y te entregan financiamiento.
+[156.64 - 158.64]  Eso es como un bono.
+[158.64 - 159.64]  Ya.
+[161.04 - 165.44]  Y se tienen que dar algunas condiciones previas como el que te regreses de la universidad,
+[165.44 - 172.64]  pero no es que tú seas tu promesa, digamos, cuando tu palabra es el contrato.
+[172.64 - 180.64]  Entonces, cuando, por ejemplo, yo puedo tener un proyecto de un bosque que va a hacer actividad
+[180.64 - 181.64]  de.
+[182.44 - 186.84]  De reforestación va a haber un trabajo con las comunidades,
+[186.84 - 190.84]  tiene ya un manejo pre aprobado o más o menos visto,
+[190.84 - 194.44]  pero yo para implementar todo ese proyecto yo necesito financiamiento.
+[194.44 - 196.84]  Entonces yo voy a los bancos y es quien necesito.
+[196.84 - 205.44]  Quiero emitir un bono por este proyecto de manejo de esta área que va a permitir que se
+[205.44 - 209.44]  se regenere todo un área y aparte puede emitir créditos de carbono.
+[209.44 - 210.84]  Ah, perfecto.
+[210.84 - 216.84]  Entonces ahí se quema un bono y el bono viene cada como un instrumento de financiamiento
+[216.84 - 218.84]  o de deuda según el punto.
+[219.24 - 220.24]  Ya.
+[220.24 - 227.84]  El crédito es que yo, por ejemplo, tengo una hectárea que la traté de suelten y esa hectárea
+[227.84 - 236.64]  absorbe en el año ocho toneladas de CO2 y esas ocho toneladas se transforman en créditos
+[236.64 - 239.04]  de unidad equivalente de CO2.
+[239.04 - 246.44]  Entonces yo durante ese año yo hice esa captación y va a haber otra empresa que emitió esa captura,
+[246.84 - 250.44]  esa CO2 y dice oye yo para dejar nula mi huella.
+[251.84 - 257.44]  Yo hoy te compro ese crédito que tú tienes porque está absorbiendo unidad de CO2 y así voy
+[257.44 - 264.84]  haciendo que el balance de emisiones de mi empresa vaya terminando siendo neutral, neutro.
+[267.44 - 270.44]  Eso ha estado un poco, no sé si fue muy largo, si quiere irle a preguntar.
+[270.44 - 272.24]  No, está bien.
+[272.24 - 275.24]  Si todo lo que te quiera esplayar, adelante, no hay problema.
+[275.24 - 276.44]  De hecho mejor para mí.
+[280.84 - 287.04]  Bueno, vamos con la, ah no, mira, una parte un poquito cómo sería como la comparativa de todo
+[287.04 - 292.84]  este trabajo que está haciendo como en Chile versus como la región latinoamericana en general.
+[292.84 - 294.24]  No sé si tienes conocimiento de eso.
+[294.24 - 300.84]  Sí, sí, en general a ver los países más fuertes en el tema son Chile y Colombia.
+[300.84 - 302.64]  Colombia mucho más que Chile.
+[304.04 - 310.64]  En este universo del mercado como de los créditos carbonos subyacen hasta hartos
+[310.64 - 317.84]  de stakeholders, ya están los gobiernos, las naciones unidas que da los grandes
+[317.84 - 325.24]  delineamientos con esta grande con el acuerdo de París, con el acuerdo de París,
+[325.64 - 333.04]  con el acuerdo de París, el protocolo de Kioto antes mandando los delineamientos.
+[333.04 - 338.64]  Los gobiernos hacen su bajada, pero para que esto funcione tienen que haber otros,
+[338.64 - 343.04]  también otros actores, tienen que haber una regulación, eso te la ponen todo el marco
+[343.04 - 347.44]  teórico, todo el marco legal te lo ponen los Estados y por otro lado tienen que
+[347.44 - 354.04]  haber proyectos de CO2, ya sea fábrica, empresas, campos, bosques subterráneos,
+[354.04 - 359.24]  como aéreo, como tú lo queráis y por otro lado tienen que haber estándares.
+[360.24 - 364.24]  Los estándares son súper importantes porque los estándares al final dicen son los que
+[364.24 - 369.24]  valían que un proyecto tenga que sea correcto, o sea que por ejemplo yo digo
+[369.24 - 375.44]  oye, aquí tengo este bosque con este tipo de árbol, esto absorbe tantas toneladas de CO2
+[376.64 - 381.84]  y a medida que va pasando el tiempo se mantiene esta capacidad de absorción y esto genera
+[381.84 - 387.44]  estos créditos y estos créditos tienen una trazabilidad, están en un registro único
+[387.44 - 393.44]  que los que cada unidad las hace única ya que no, no.
+[394.44 - 400.84]  Entonces ya tenéis una entidad reguladora o que pone un estándar de calidad que es
+[400.84 - 408.24]  importante, digamos que el que te dice que ese campo existe, que eso es lo que absorbe
+[408.64 - 413.64]  y que esas unidades que se van a comercializar existen y están disponibles y no sean
+[413.64 - 414.64]  revendidos sin COEs.
+[417.44 - 420.44]  Primer punto a favor, digamos, de la certificadora.
+[421.44 - 424.44]  Después para que la certificadora realmente te aprogue
+[426.44 - 430.44]  y si por ejemplo tú te ponés en la posición que tú eres dueño de un bosque que lo heredaste
+[430.44 - 436.44]  de tu familia, yo voy a hacer un proyecto de crédito carbono, yo a mí si me preguntan
+[436.64 - 442.44]  excede mis capacidades, también voy a tener que contratar a un consultor que me va a
+[442.44 - 447.24]  decir que hacer el proyecto, ese proyecto se cae y va a hacer todo el proyecto, se lo
+[447.24 - 451.44]  va a aprobar en la certificadora y la certificadora dice que es súper bien, ha cumplido todos
+[451.44 - 457.44]  los papeles pero ahora tienen que ir a un auditor y yo dentro de mis auditores bajo
+[457.44 - 461.84]  esa norma que tú te querés certificar son los siguientes auditors, pero este juguete
+[461.84 - 465.44]  está en la India, está el juguete de la India a Chile a ver el audio.
+[467.44 - 474.44]  El gallo llega al auditor y dice, sí, este campo existe, lo que dicen de metro cúbico
+[474.44 - 481.44]  de bosque existe, los cálculos están bien hechos, apruebo que se certificen autos.
+[481.44 - 487.44]  Ya, perfecto. De ese 100% hay un 25% de créditos que va a quedar retenido.
+[487.44 - 493.44]  ¿Por qué? Porque no sabemos si ese bosque está propuesto a que se pueda quemar o que
+[493.44 - 498.44]  le entre una peste o que pierda la capacidad de absorción que se dijo que iba a hacer
+[498.44 - 504.44]  el proyecto. Listo. Después por otro lado tenís, ese es como el lado de la oferta,
+[504.44 - 508.44]  ahora en el lado de la demanda tenís las industrias o las empresas que tienen que
+[508.44 - 512.44]  comprar los créditos de carbono. Entonces ellos llegan y dicen, oye, ¿sabés qué quiero
+[512.44 - 515.44]  comprar créditos de carbono? ¿Y por qué querés comprar créditos de carbono? No,
+[515.44 - 521.44]  porque medí mis emisiones, ya partiste con una emisión, usaste un estándar,
+[521.44 - 526.44]  una ISO y después un tercer gallo que dijo sí, todos los cálculos que hizo tu otro
+[526.44 - 531.44]  gallo están bien. Perfecto. Y ahora quiero salir a comprar créditos.
+[531.44 - 535.44]  ¿Y a dónde se compran créditos y cuáles son los créditos que me sirven? Y ahí entran
+[535.44 - 539.44]  también los productos, que es donde estoy yo. Entonces yo soy la persona que paga un de
+[539.44 - 543.44]  los proyectos y dice, oye, ¿qué tengo que vender? Tengo estos proyectos, estos créditos,
+[543.44 - 547.44]  de este proyecto. Listo. Voy hacia varios créditos, después voy a la empresa, le digo,
+[547.44 - 552.44]  yo no vengo a vender, vengo a regalar y estos son todos mis productos. ¿Cuál te gusta?
+[552.44 - 561.44]  Este, este, este, este y este. Ah, perfecto. Listo. Excelente. Ya compremos ese. Listo.
+[561.44 - 568.44]  Yo hago la transacción y hago que esto funcione de... Porque el proyecto hace todo un trabajo,
+[568.44 - 573.44]  pero no se preocupa de vender y por otro lado la empresa está preocupada, no sale a buscar,
+[573.44 - 579.44]  sino que yo tengo que llegar con eso a la puerta. Y ahí se genera todo un mercado. Por otro lado,
+[579.44 - 589.44]  si es que eso es como una forma, como funciona más o menos, ¿cierto? Claro. Eso, Colombia,
+[589.44 - 595.44]  por ejemplo, tenía estándares. Colombia ya tenía dos estándares, tiene cerco-carbono
+[595.44 - 601.44]  y bio-standares. Yo con los nombres, él tendría que revisarlo. Pero estoy casi seguro porque
+[601.44 - 609.44]  los publica ayer, así que... Son dos estándares. Ellos ya tenían dos estándares y ya tenían
+[609.44 - 615.44]  certificadores. Ellos partieron mucho antes, ya tenían impuestos y ya habían partido antes con
+[615.44 - 622.44]  una infraestructura, ya. Y fue como la primera infraestructura en español. Porque antes está todo,
+[622.44 - 627.44]  vaya a haber otros estándares que es VERRA, Gold Standard, Old de la Uno, está todo,
+[627.44 - 633.44]  toda la papelería está en inglés y esto que hay va a venir a España. Pero Chile es el único
+[633.44 - 640.44]  mercado que tiene todo desarrollado. O sea que tiene desarrollado un impuesto. Chile y Colombia
+[640.44 - 648.44]  tienen impuestos. Tiene un mercado de voluntarios de carbono y tiene cuatro cosas. Impuesto,
+[648.44 - 658.44]  impuesto, se me olvidó. Tiene impuestos, proyectos, certificadora, reconocido estándares de
+[658.44 - 663.44]  certificador y tiene LEI o tiene... Pero en general Chile es uno de los países que está más adelantado
+[663.44 - 669.44]  que tiene los cuatro aspectos. Tiene mercado voluntario, mercado obligado, tiene precios
+[669.44 - 676.44]  y tiene otra cosa. Se me olvidó. ¿Tema de comercio de misiones será? Sí, tiene comercio de misiones,
+[676.44 - 692.44]  registro y todo. Y tiene proyecto. Ah, y está y tiene el tema de lo de los Eatsmoos. Algo que vamos a hablar un poquito más
+[692.44 - 699.44]  adelante que yo creo que te va a abrir el tema. Chile tiene la capacidad de exportar créditos a otros países.
+[700.44 - 708.44]  Tiene Chile, tiene su cuantificación de huella. Tiene compromisos firmados de misiones de aquí al 2050
+[708.44 - 716.44]  hacer carbono neutral. Tiene impuestos y tiene un comercio de carbono voluntario. Ahí está. Ahí son los cuatro.
+[716.44 - 722.44]  Ahí se me olvidó. Ni se bolsa. Deberían entrar los cuatro nuevos en el tema.
+[722.44 - 731.44]  ¿Y mercado obligatorio aún no tenemos? Falta aún. Mercado obligatorio en cierta medida tenemos.
+[731.44 - 743.44]  Porque hay gente que en literatura dice el impuesto verde dice funcionará como el mercado voluntario.
+[743.44 - 750.44]  Pero en cierta medida si tú te pasáis de tus emisiones y está ahí registrado y tenéis que pagar el impuesto
+[750.44 - 757.44]  o pagas el impuesto que son cinco dólares o compra el crédito. Pero en cierta medida al final del proceso
+[757.44 - 764.44]  tenéis algo que te obliga. Tenéis impuesto, tenéis que pagar cinco dólares o tenéis que ir a comprar un crédito
+[764.44 - 774.44]  para no pagar el impuesto. Vale. Entiendo el punto de vista. Entonces como que en la ley está como funcionará
+[774.44 - 785.44]  como el mercado voluntario, pero obligado. Pero un detalle. Un detalle. Ahora sí, vamos con la segunda pregunta.
+[785.44 - 793.44]  Bueno, ¿cuáles son los principales desafíos regulatorios como pensando en fortalecer todo esto?
+[793.44 - 801.44]  Y también al mismo tiempo lo operativo que enfrenta Chile para fortalecer todo este tema del mercado del carbono.
+[802.44 - 816.44]  En cierta medida a mí me ha llamado mucho la atención en que Chile tiene un desarrollo institucional de este tema.
+[816.44 - 825.44]  O sea, si tú ves que lo que ha hecho este gobierno ha sido una continuación de lo que hizo el gobierno anterior.
+[825.44 - 832.44]  Lo que hizo el gobierno anterior es una continuación de lo que hizo el gobierno anterior. O sea, tú acá uno ve una política de Trump.
+[832.44 - 841.44]  Eso habla súper bien. Otra cosa que me gusta mucho es que es una solución basada en libre mercado.
+[841.44 - 853.44]  O sea, el mercado a cierta medida define el valor, el mercado define cuál es el precio de una transacción
+[853.44 - 859.44]  entre un particular y un privado. Si te quiero vender a 8, te puedo vender a 8.
+[859.44 - 866.44]  A ver, la empresa no me quiere comprar a 8, porque mejor pago lo impuesto pago 5. Y se ponen de acuerdo.
+[866.44 - 880.44]  Los desafíos vienen en tratar de que yo creo que son cositas pequeñas que las puse ayer en el post que subí a LinkedIn.
+[880.44 - 888.44]  Me he dejado buscarlo un poquito porque me quedó bien estructurado así que lo voy a leer de ahí.
+[888.44 - 892.44]  Igual estuve viendo harto de los vídeos. Me gustó.
+[892.44 - 898.44]  Cuesta hacer contenido, no creo que es fácil.
+[898.44 - 902.44]  No, no, si le creo que no es fácil.
+[902.44 - 905.44]  Me cuesta hacer contenido.
+[906.44 - 909.44]  Ya, vamos a ver.
+[909.44 - 913.44]  ¿Qué publicé ayer? ¿Qué me volví loco ayer?
+[923.44 - 927.44]  Me equivoco, ¿qué publicé hace un mes? Por estar payando. Ya.
+[927.44 - 935.44]  A ver, las cosas que yo pude percibir ayer entre lo que hablaba el gobierno y los privados.
+[938.44 - 948.44]  Se ve un potencial, un potencial fuerte entre lo que es para que entre más energía renovable a la matriz.
+[948.44 - 952.44]  Y con eso también se disminuye.
+[952.44 - 958.44]  Tecnicamente eso hace que el factor de emisiones a través de consumo de energía eléctrica baje.
+[958.44 - 966.44]  Y a su vez también está la posibilidad de generar proyectos o créditos que tengan la adicionalidad o puedan obtener financiamiento.
+[966.44 - 972.44]  Por ser una fuente de generación de energía de baja intensidad de emisiones de CO2.
+[973.44 - 980.44]  Algo que va a venir muy fuerte va a ser el tema de cómo el manejo de la basura y los vertederos.
+[980.44 - 984.44]  Y eso ya está la ley rec y todo eso, yo no me manejo mucho.
+[984.44 - 993.44]  Pero entiendo que mientras antes tú le pongas atajo a la basura en los vertederos, es mejor.
+[993.44 - 997.44]  Porque la basura funciona como en una U invertida.
+[998.44 - 1005.44]  A medida que va pasando el tiempo, en un período de cinco años, en el año 13, por ejemplo,
+[1005.44 - 1012.44]  tu botas ahí una bolsa con basura, en el año 3 vayas a obtener el máximo de emisiones de metano.
+[1012.44 - 1016.44]  El metano es equivalente al CO2 por 28.
+[1016.44 - 1020.44]  O sea, una partícula de metano es igual a 28 toneladas.
+[1020.44 - 1024.44]  Una tonelada de metano es equivalente a 28 toneladas de CO2.
+[1025.44 - 1028.44]  La acción en la atmósfera es más larga que una...
+[1028.44 - 1032.44]  Por eso de repente uno dice tanto y tanto CO2 y hay otros gases.
+[1032.44 - 1036.44]  Lo que pasa es que todo se lleva a una unidad de CO2 equivalente.
+[1036.44 - 1044.44]  Es como un metro de cable, un metro de soga, un metro...
+[1044.44 - 1049.44]  Todas son 1.5m y son de distintas cosas.
+[1050.44 - 1053.44]  Malo el ejemplo, malo el ejemplo, pero es como decir...
+[1053.44 - 1054.44]  Así se lo entiendo.
+[1054.44 - 1058.44]  Esa es la unidad como unidad de medidas, con equivalencia.
+[1060.44 - 1069.44]  Así que yo creo que va a venir un fuerte desarrollo de créditos por manejo, gracias al manejo de verdaderos.
+[1071.44 - 1076.44]  Otra cosa que es las personas que generan créditos, tal le pedían al gobierno
+[1076.44 - 1084.44]  que para los efectos de los créditos de impuestos, que son los que tienen un valor de comercialización más alto de 5 dólares por tonelada en Chile,
+[1085.44 - 1087.44]  que le dieran más tiempo de vintage.
+[1087.44 - 1100.44]  O sea que si yo tomo un crédito para no pagar un impuesto, este tiene que tener una vejez de menos de 3 años.
+[1100.44 - 1102.44]  Entonces lo que quieren es alargarlo.
+[1102.44 - 1113.44]  A cierta medida quieren liberar más créditos por más tiempo, por todo el tema de lo que significa certificar los proyectos y que los créditos estén disponibles.
+[1113.44 - 1119.44]  Entonces decimos, oye, me demoro dos años y tengo que vender los tres años en un braño.
+[1119.44 - 1122.44]  Entonces mejor dame más tiempo para vender los créditos.
+[1122.44 - 1126.44]  Y así hacer el trámite una sola vez y no tantas veces.
+[1126.44 - 1145.44]  Y se ve también que puede haber una, como se llama, exista una brecha entre el precio social del carbono con el precio del impuesto verde.
+[1145.44 - 1155.44]  Y también hay otro tema que es cómo se van a poder exportar créditos en un futuro con países que tengan un acuerdo con Chile.
+[1155.44 - 1160.44]  Gracias al artículo 6.2 del acuerdo Paris.
+[1160.44 - 1174.44]  Significa que por ejemplo si una empresa suiza en vez de pagar un impuesto de 20 dólares puede venir a comprar un crédito a Chile.
+[1174.44 - 1178.44]  Y el chileno le dice, oye, ¿cuánto me vais a pagar?
+[1179.44 - 1182.44]  ¿5 dólares puedo? No, no, no, no.
+[1182.44 - 1188.44]  15 dólares. Tú pagáis 20. O sea, o me pagáis 15 a mí o le pagáis 20 dólares a tu Estado.
+[1188.44 - 1194.44]  Elige. Ya, a los 15. Entonces ahora ahí subiste el precio del crédito de inmediato.
+[1194.44 - 1200.44]  Entonces, siempre a medida va a tener que acomodarse un poquito el mercado al Estado.
+[1200.44 - 1206.44]  Así que tengo que subir en la cuestión, sino todos los créditos se me van para afuera y no compensa nada.
+[1206.44 - 1213.44]  Y por otro lado, por 15 dólares ya va a haber más incentivos de generar nuevos proyectos.
+[1213.44 - 1223.44]  Porque hay proyectos como los forestales que son proyectos que están basados en la naturaleza que son más caros, son más caros de desarrollar.
+[1223.44 - 1228.44]  Porque tenés que tener un cuidador, tenés que cerrar, tenés que tener todo un plan para que no te incendie.
+[1229.44 - 1235.44]  Tenés que tener un manejo, tenés que hacer renuevo de tus justigos.
+[1235.44 - 1240.44]  No es tan sencillo, no es tan sencillo como el de una hidrolíptica digamos.
+[1240.44 - 1243.44]  Su negocio principal es generar electricidad y de de realmente oír.
+[1243.44 - 1248.44]  Ya que ya que ya que nos estamos emitiendo ganemos plata por generar créditos.
+[1248.44 - 1249.44]  Pensáis?
+[1250.44 - 1251.44]  Te comprendo.
+[1251.44 - 1252.44]  Ya.
+[1252.44 - 1253.44]  Y más.
+[1254.44 - 1260.44]  Ya. Ahora vamos a entrar como un poco más desde el punto de vista desde las comunidades.
+[1260.44 - 1275.44]  La tercera pregunta es relacionada como a los tipos de beneficios que reciben las comunidades al ejecutar proyectos, a todo el proceso general de cuando se ejecuta un proyecto de crédito de carbono.
+[1276.44 - 1278.44]  Cuando tú tenés un proyecto.
+[1282.44 - 1284.44]  En general, lo que se trata de hacer.
+[1284.44 - 1289.44]  Y me imagino que tú te manejáis con los objetivos de sustentabilidad de la obra.
+[1289.44 - 1290.44]  Sí.
+[1291.44 - 1293.44]  En cierta medida lo que tú tratas de hacer es que.
+[1296.44 - 1301.44]  Tú cuando genera un proyecto, un crédito, digamos, tú lo que trata es de.
+[1304.44 - 1305.44]  De vestirlo mejor.
+[1306.44 - 1311.44]  Por ejemplo, uno de los proyectos que nosotros trabajamos es de la Amazonía en Perú.
+[1312.44 - 1323.44]  Entonces, ese proyecto, aparte de proteger toda la área y que esa área protegía, genera el crédito que haga absorción de huella de CO2 y genera el crédito.
+[1324.44 - 1339.44]  Ellos absorben objetivos de sustentabilidad a la uno porque trabajan con las comunidades, trabajan con las comunidades, trabajan en función de la cooperativa, de que puedan mejorar mejores precios de venta y con eso combaten la pobreza.
+[1340.44 - 1343.44]  Hacen trabajo con las comunidades y empoderan a las mujeres.
+[1344.44 - 1346.44]  El ODS de empoderamiento a las mujeres.
+[1347.44 - 1350.44]  Hacen trabajo de, como se llamaba, con el medio ambiente.
+[1351.44 - 1358.44]  El ODS de, cómo se llama, del tema de la acción climática y así.
+[1358.44 - 1361.44]  Entonces, en cierta medida, todos esos beneficios.
+[1361.44 - 1362.44]  Todos esos beneficios.
+[1363.44 - 1367.44]  El valor como el valor agregado que los proyectos tratan de agregar a los proyectos.
+[1368.44 - 1371.44]  En cierta medida, al final caen un beneficio en las comunidades.
+[1372.44 - 1379.44]  O sea, tú cuando estás hablando de empoderar a mujeres no es por ponerlo en la calcamonía porque realmente las también empoderan.
+[1380.44 - 1383.44]  Y gracias a eso tú vas a poder vender tu crédito más caro.
+[1383.44 - 1392.44]  Y a través de esa venta de ese crédito más caro va a poder obtener financiamiento para desarrollar esas actividades que certifican que algunos ODS se están cumpliendo.
+[1394.44 - 1399.44]  En ese sentido, como que los ODS le van agregando atributos a tu proyecto.
+[1399.44 - 1404.44]  Y esos atributos satisface necesidades de las comunidades.
+[1407.44 - 1408.44]  Toda la razón.
+[1408.44 - 1411.44]  Y bueno, la siguiente pregunta.
+[1412.44 - 1415.44]  También relacionada con el punto de vista de las comunidades.
+[1416.44 - 1424.44]  ¿Qué tipo de conflictos, tensiones tienden a surgir con mayor frecuencia cuando se desarrollan los proyectos?
+[1425.44 - 1428.44]  Poniéndolo un poco igual como tratando de ponerlo en los contextos chilenos.
+[1429.44 - 1432.44]  Mira, en general yo voy a ser súper honesto.
+[1433.44 - 1437.44]  Yo nunca he desarrollado un proyecto de soluciones basado en la naturaleza.
+[1439.44 - 1448.44]  Yo soy el que llega al final así que malamente te podría dar una idea de lo que realmente sucede.
+[1450.44 - 1454.44]  Sí, solo lo que percibe o si prefieres no responder pasamos nomás a la siguiente.
+[1455.44 - 1461.44]  Yo desde la perspectiva de lo que puedo ver, puedo ver que hay comunidades que no sé.
+[1462.44 - 1469.44]  Pueden estar no interesadas en canalizar una caída de agua y generar electricidad.
+[1470.44 - 1473.44]  Y con eso vender electricidad y generar créditos de carbón.
+[1474.44 - 1476.44]  Están en su libertad de hacerlo como no hacerlo.
+[1476.44 - 1483.44]  En cierta medida hay otras comunidades que dentro de su conmovisión están las protegeres, la naturaleza y todo eso.
+[1484.44 - 1486.44]  En ese sentido cuadra y calza.
+[1487.44 - 1493.44]  Y a través de mantener lo que ellos en sus creencias pueden recibir financiamiento.
+[1494.44 - 1501.44]  Y porque en cierta medida va a pasar eso o con el tiempo va a llegar el avance de la ciudad.
+[1501.44 - 1511.44]  Si tú quieres mantenerlo y gracias a eso todos como sociedad estamos beneficiados porque hay una unidad verde que está capturando oceano.
+[1512.44 - 1514.44]  ¿Por qué no recibir algún agrado de financiamiento?
+[1515.44 - 1516.44]  El tema es hacerlo bien.
+[1517.44 - 1522.44]  Y eso puede ser un choque cultural, no sé, de tener un sierra que no puede ir a la ciudad.
+[1523.44 - 1527.44]  No está haciendo un buen trabajo de forestación, el manejo no lo está cumpliendo.
+[1528.44 - 1530.44]  Eso puede ser un problema de la cultura.
+[1531.44 - 1536.44]  Pero en cierta medida lo que se busca es que se mejoren las condiciones para todos.
+[1537.44 - 1538.44]  Claro.
+[1539.44 - 1543.44]  Pero también hay como que se puede generar un problema de la cultura.
+[1544.44 - 1552.44]  Se puede generar como alguien en cierta medida que genera un poquito de conflicto porque el commodity es CO2 compensado.
+[1553.44 - 1559.44]  Además encima le estoy pidiendo que hagan más actividades, más cosas más y lo están encareciendo.
+[1560.44 - 1567.44]  Oye, no es lo que se busca, es que se busca que se busquen más actividades, más cosas más.
+[1567.44 - 1568.44]  Y lo están encareciendo.
+[1573.44 - 1579.44]  Los proyectos que se generaron para combatir el clandestino global y absorber más CO2.
+[1580.44 - 1587.44]  Si estáis haciendo más actividades, qué bueno, pero alguien se puede sentir la libertad de decir,
+[1587.44 - 1592.44]  ¿sabes qué? A mí no me interesa lo que tú hagas con tus comunidades porque yo necesito compensar mi huella de CO2.
+[1593.44 - 1596.44]  Porque mi trabajo con las comunidades lo hago con mi comunidad que está acá al lado.
+[1597.44 - 1599.44]  También se puede dar ese fenómeno.
+[1600.44 - 1606.44]  Que de repente es una comunidad que les sube las expectativas de miles de cosas y de repente no se venda tu producto.
+[1606.44 - 1609.44]  Porque tu commodity sigue siendo el CO2 que está ahí.
+[1612.44 - 1617.44]  Muy bueno, me calza con lo que me han dicho los otros entrevistadores.
+[1617.44 - 1619.44]  Vamos a seguir con la siguiente pregunta.
+[1619.44 - 1623.44]  Y te digo que a mí me pasa porque con este proyecto urbano lo visto, lo vendo,
+[1624.44 - 1627.44]  y le cuesta mi cuesta, no, dame el más barato.
+[1630.44 - 1633.44]  Sí, al final siempre va la financiación primero.
+[1635.44 - 1638.44]  Sí, pero no creáis, no creáis, no creáis.
+[1639.44 - 1640.44]  Sí, no.
+[1640.44 - 1645.44]  De repente no es que las empresas con esa compra van a quedar carbonos neutrales.
+[1645.44 - 1648.44]  Están haciendo algo, están haciendo algo para mejorar.
+[1649.44 - 1652.44]  Y en cierta medida tampoco están haciendo gringüaching porque decimos,
+[1652.44 - 1657.44]  ¿sabes qué? Nos gustó, hicimos esta actividad y nos preocupamos de que fuera carbonos neutrales
+[1657.44 - 1660.44]  y compramos los créditos de la gente de la Amazonía.
+[1661.44 - 1666.44]  Y es que no es que la empresa con esa compra va a quedar carbonos neutrales.
+[1667.44 - 1673.44]  Y no es que la empresa con esa compra va a quedar carbonos neutrales y compramos los créditos de la gente de la Amazonía.
+[1673.44 - 1675.44]  Y fueron 20 toneladas y nada más.
+[1676.44 - 1679.44]  Y lo comunicaron, compraron el crédito,
+[1679.44 - 1682.44]  pero no eran todos los créditos que se daban para hacer carbonos neutrales.
+[1683.44 - 1685.44]  Porque tampoco estaban detrás de eso.
+[1686.44 - 1689.44]  Es para todos, es para todos.
+[1689.44 - 1690.44]  Es para todos, ¿vale?
+[1691.44 - 1692.44]  Se entiende totalmente.
+[1692.44 - 1698.86]  Bueno, ahora vamos a pasar como un poco a otra dimensión, que es como un poco más
+[1698.86 - 1704.60]  lo técnico y lo económico. Y la siguiente pregunta es, ¿los criterios que deberían
+[1704.60 - 1713.34]  ser prioritarios al momento de desarrollar o seleccionar, entendiendo los proyectos de
+[1713.34 - 1722.02]  crédito desde la prefactibilidad en adelante? Todo el proceso completo. Y todo esto considerándolo
+[1722.02 - 1729.62]  al contexto chileno. Allí considerar viabilidad económica, impacto social, impacto ambiental,
+[1729.62 - 1740.34]  todas esas cosas. A ver, los créditos de carbono no hacen como un complemento para una actividad,
+[1740.34 - 1748.90]  o sea, no necesariamente van a ser el proyecto en sí. No la fuerte de ingreso de ese proyecto
+[1748.90 - 1756.86]  va a estar alrededor de eso. O sea, se puede tener proyectos que... Hoy sé que me gustaría tener una
+[1756.86 - 1764.66]  planta hidroeléctrica, pero con el precio que está la electricidad no me da. No me da la rentabilidad
+[1764.66 - 1772.70]  del proyecto. Pero si le adicionamos lo de los créditos, ¿sabes qué? Podría ser. ¿Cuánto del
+[1772.70 - 1779.98]  crédito? Tanto. ¿Y si los vendo? Me gano tanto. ¿Y cuál es el mercado? Ya, se van a vender todos.
+[1779.98 - 1786.18]  Perfecto. ¿Y con cuanta plata hay? Tanta. Listo, ahora me está dando rentable. Se genera esa
+[1786.18 - 1794.02]  como adicionalidad que no sé si la habréis escuchado cuando uno lo dice. Entonces funciona.
+[1794.02 - 1806.14]  Al tema de la forestación y todo eso también se genera adicionalidad. O la persona que trella
+[1806.14 - 1813.78]  un terreno tiene dos decisiones en su vida. Lo mantengo para recoger plusvalía o lo mantengo
+[1813.78 - 1819.30]  como un reservorio para la humanidad. ¿Cierto? Puede tener dos decisiones, digamos, si es natural.
+[1819.30 - 1826.74]  Entonces, si me dice que me gustaría vender este terreno para recibir plata y olvidarme y
+[1826.74 - 1832.62]  disfrutar mi plata. O luego yo digo, pero ¿sabes qué? Si yo vendo mi terreno van a construir una
+[1832.62 - 1838.58]  población. Entonces, ¿qué es lo que busca los créditos carbonos? Que oye, para que tú no tomes
+[1838.58 - 1845.26]  la decisión económica de venderlo, genera créditos de carbono y así vais a tener flujo. Ah, perfecto.
+[1846.26 - 1852.82]  Y esa persona puede tomar la decisión de invertir una cantidad inicial de plata para poder generar
+[1852.82 - 1860.74]  que esto sea se pueda materializar en el tiempo. Como te dije, contratar a un consultor, buscar
+[1860.74 - 1869.02]  el estándar, llenar todos los papeles, pagar la franquicia del estándar, emitir los créditos y
+[1869.02 - 1876.34]  venderlo. Tienen que pasar todas esas cosas también y eso estamos hablando de tiempo, tiempo y caja
+[1876.34 - 1884.06]  inversión inicial. Entonces, a cierta medida ahí puede haber un desencentivo de que esto pase.
+[1884.06 - 1890.26]  El incentivo aumenta si es que aumenta el importe, pero por otro lado, como esto es sostenible,
+[1890.26 - 1896.46]  tú tenés tres patas a la mesa. Toda la empresa no le puede poner una pictura en la cabeza y decir
+[1896.46 - 1901.14]  oye, preocupa de ser ecológico, ecológico, ecológico y por ser ecológico, ecológico,
+[1901.14 - 1906.54]  ecológico, su actividad económica se disminuye y al final termina afectando a lo social porque
+[1906.54 - 1912.74]  la gente no se va a traer trabajo y lo asociar para afectar lo económico y así el ambiental y así
+[1912.74 - 1917.98]  se va a dar vuelta al top. O sea, es como una mesa de tres patas que al final siempre está media coja, pero
+[1917.98 - 1924.66]  chata de que podáis cubrir arriba la mesa, que está ahí. Ese es como el que podáis vivir con la mesa así digamos.
+[1926.46 - 1940.74]  Realmente. Entonces lo que yo veo es que efectivamente se tienen que ir liderando ciertas variables que permitan que sea factible generar proyectos.
+[1940.74 - 1948.86]  Yo creo que el financiamiento está, porque hay una demanda, hay una demanda que no está cubierta.
+[1948.86 - 1953.70]  O sea, a las empresas les gustaría comprar crédito, en vez de pagar impuesto les gustaría comprar crédito,
+[1954.14 - 1961.94]  pero no hay suficientemente créditos disponibles en el mercado para que todas las empresas puedan cubrir los impuestos que tienen que pagar.
+[1961.94 - 1970.54]  Y el impuesto, como lo han dicho todos, no tiene una función recaudatoria, sino que en el caso del impuesto verde,
+[1970.54 - 1976.42]  no tiene una función recaudatoria, sino que es correctiva. Así que también estamos viendo.
+[1976.42 - 1985.14]  Está muy bueno lo último que me dijiste. Y de hecho hay algo que...
+[1985.14 - 1990.14]  Me preguntaste que me dijiste ahí en Mario, no me acuerdo.
+[1990.14 - 1995.14]  No, pero esto está todo siendo grabado así que...
+[1995.14 - 2001.62]  Me voy a dar vuelta tres veces hasta que me digan, mira cómo están sacando los mocos, mira, mira, junto no está mal.
+[2001.82 - 2007.42]  No, pero la que ve el profe es solo el audio, él la escucha.
+[2007.42 - 2008.42]  No, tranquilo.
+[2010.42 - 2012.42]  Así que no pasa nada.
+[2012.42 - 2019.42]  Mira, hemos hablado, ha salido un poco el tema de los estándares, de eso se trata la siguiente pregunta.
+[2019.42 - 2025.42]  ¿Cómo influye la falta de un estándar global en el tema de los créditos de carbono?
+[2026.22 - 2032.22]  Porque hay muchos temas de credibilidad y efectividad, y cómo esto también afecta a Chile.
+[2032.22 - 2041.22]  En cierta medida, oye, se me dio con la cierta medida, me carga esa muletilla que tengo y voy a tratar de cambiar.
+[2041.22 - 2054.22]  En vista de lo que he visto, yo cuando partí en esto, fue como por ahí cuando se firmó el acuerdo de Tokio, creo.
+[2055.02 - 2057.02]  El año 2000 algo.
+[2058.02 - 2061.02]  Tengo un problema de ficha, no lo tengo ni una ficha.
+[2061.02 - 2070.02]  Y me acuerdo que yo hice el cálculo de la huella de mi vida, de mi casa y todo, y fue menos de una tonelada,
+[2070.02 - 2076.02]  y bueno, y voy a comprarlo y costaba menos de un dólar, ni la tarjeta de crédito pasaba.
+[2076.02 - 2080.02]  Y era algo como que tú decías, ¿tiene valor esto?
+[2080.82 - 2087.82]  Tengo que compensar 800 kilos, ni siquiera una tonelada, cuesta 50 centavos.
+[2087.82 - 2089.82]  ¿Y qué hago con ese certificado?
+[2089.82 - 2092.82]  ¿Estoy salvando el planeta? ¿Está pasando algo?
+[2092.82 - 2096.82]  ¿Está ahí como bien suyene?
+[2096.82 - 2098.82]  Que lujo.
+[2099.82 - 2101.82]  Y eso fue el 2003.
+[2101.82 - 2103.82]  Después hubo una película.
+[2104.62 - 2108.62]  Ahí se empieza a olvidar el nombre, siempre cuenta la misma historia.
+[2108.62 - 2120.62]  Y si tú la pones en Google, la voy a buscar contigo, se llama estafa bonos de carbón, ¿no?
+[2120.62 - 2122.62]  Película.
+[2134.62 - 2142.62]  Ahí me pillaste. No sé si he visto una película, he visto varias documentales, pero ¿película?
+[2142.62 - 2147.62]  Ah bueno, pero los documentales están basados en eso.
+[2147.62 - 2153.62]  ¿Te acordáis después? O si lo encontráis ahora.
+[2154.42 - 2169.42]  No, es que ya la caí. Me estoy mal la búsqueda y se quedó pegada, así como me sigue teniendo sangre y dinero.
+[2169.42 - 2172.42]  ¿Sangre y dinero la película?
+[2172.42 - 2175.42]  Pero es una serie, es una serie ahora.
+[2175.42 - 2182.42]  Un docu serie francesa que embolsaba impuestos vendiendo cuotas de contaminación.
+[2183.22 - 2187.22]  Hoy está el nuevo.
+[2187.22 - 2189.22]  ¿Se está atentando así?
+[2189.22 - 2192.22]  Sangre y dinero se llama.
+[2192.22 - 2196.22]  Ya bueno, ahí tenía una película, que ahí tengo que verla, no la vi.
+[2196.22 - 2205.22]  Bueno, el tema es que esa película salió como por, no sé, a mediados del 2010 por ahí.
+[2205.22 - 2208.22]  Y dije, ah, esta cuestión es una estafa.
+[2209.02 - 2214.02]  En realidad no se entiende esta cuestión, qué son estos créditos.
+[2214.02 - 2219.02]  Y como que me desensentive con el tema.
+[2219.02 - 2227.02]  Hace unos 5 años atrás, 6 años atrás, un compañero de curso me hizo un imágenes de que invertí en un proyecto que genera crédito de carbono.
+[2227.02 - 2231.02]  Me hace estúpido, mira, como andáis perdiendo plata ahora.
+[2231.02 - 2236.02]  Yo, la persona que ahora vende créditos de carbono, para que veáis cómo ha sido mi historia.
+[2236.02 - 2238.02]  El bróker.
+[2238.82 - 2249.82]  Y después, por ir y venir de mi trabajo y todo el tema, caí con este tema de nuevo.
+[2249.82 - 2253.82]  Y partí investigándolo y vi que había una demanda real de empresas.
+[2253.82 - 2259.82]  Una demanda real de empresas que ya sea porque tenían un daño reputacional y necesitaban mejorarlo.
+[2260.62 - 2268.62]  Y aunque ahí terminó de ser daño reputacional, ahí genera una política de ESG y ahí se había puesto muy estricto.
+[2268.62 - 2274.62]  Y estaban cubriendo mucho más que el resto porque tenían que recuperar toda su reputación perdida.
+[2275.62 - 2277.62]  Y en eso entro yo a esto.
+[2277.62 - 2286.62]  Y cuando veo que estaba todo también armado y realmente ves estándares y los estándares funcionan bien.
+[2287.42 - 2291.42]  Y tú me dices, oye, estamos bien.
+[2291.42 - 2295.42]  Cuando después tú dices, oye, estos estándares los reconoce el gobierno de Chile.
+[2295.42 - 2303.42]  O sea, el gobierno de Chile dice, oye, trabajo con el de la ONU, con Berra, con el Standard, con cerca de carbono y peor.
+[2303.42 - 2312.42]  Entonces, oye, perfecto, me gusta esto. O sea, el gobierno no interviene en esto, que es mucho más dinámico que el avance del gobierno.
+[2313.22 - 2318.22]  Y le cree al trabajo que están haciendo ellos que hacen un buen trabajo.
+[2318.22 - 2323.22]  Entonces, cuando tú me dices, oye, Mario, ¿tú crees que debías hacer un órgano rector?
+[2323.22 - 2325.22]  No.
+[2325.22 - 2330.22]  Porque, por ejemplo, ¿por qué se abrieron estos dos nuevos estándares?
+[2330.22 - 2334.22]  Porque esos estándares les faltaban auditorios.
+[2334.22 - 2340.22]  Entonces, tú puedes tener crédito, pero para certificarte en ese estándar el auditor está ocupado.
+[2341.02 - 2346.02]  Entonces, mejor te haya dado otro estándar que esté más desocupado, pero que se nota al tiro, digamos.
+[2346.02 - 2353.02]  Yo creo que los expertos toman una metodología para medir un vertedero y otra metodología para medir otro vertedero.
+[2353.02 - 2357.02]  Y tú la haces match y debe andar muy parecida.
+[2357.02 - 2361.02]  Es capaz que uno tenga un énfasis en una cosita y el otro en otro, pero son reales.
+[2361.02 - 2364.02]  O sea, nadie está jugando con eso.
+[2364.02 - 2368.02]  Y hay demasiada un cancha como para mandarse una cacaíta.
+[2368.82 - 2378.82]  Entonces, a mí me da la sensación y yo tengo fe, digamos, que los créditos que la empresa certifica ahora hacen su pega.
+[2378.82 - 2382.82]  Hacen su pega y una pega técnica, muy técnica.
+[2382.82 - 2392.82]  Y es tan importante la pega que hacen ellos que también se preocupan de que ellos tienen el control de los créditos.
+[2393.62 - 2400.62]  Entonces, yo hago un proyecto y me lideran 100.000 toneladas y todas mis transacciones las voy generando en la plataforma.
+[2400.62 - 2404.62]  Porque a ellas también les interesa que tú no hagas doble contabilidad.
+[2404.62 - 2411.62]  Entonces, creo que a mí por lo menos me da la sensación de que puedo trabajar con todos los que te dije.
+[2411.62 - 2418.62]  Y con toda transparencia, digamos, y sin ningún tipo de problema y de miedo que me vaya a apuntar con el tiro.
+[2423.62 - 2426.62]  Bueno, igual pensando como todas las controversias que he tenido.
+[2426.62 - 2430.62]  Bueno, Berra específicamente ha estado más en controversias.
+[2430.62 - 2433.62]  Han tenido temas de lobby.
+[2433.62 - 2435.62]  Berra es más grande.
+[2435.62 - 2436.62]  Claro.
+[2436.62 - 2441.62]  Berra, digamos que Berra creció el último 5 años.
+[2441.62 - 2443.62]  De 20 personas a 200.
+[2443.62 - 2447.62]  O sea, ya se le han incrementado toda la cantidad de proyectos.
+[2447.62 - 2449.62]  Han tenido que desarrollar una estructura.
+[2450.42 - 2452.42]  Pero Berra sigue siendo todo.
+[2452.42 - 2455.42]  Tú vas con cualquier crédito de Berra y nadie te lo...
+[2455.42 - 2456.42]  Nadie.
+[2456.42 - 2457.42]  Nadie lo cuestiona.
+[2457.42 - 2458.42]  Nadie te lo cuestiona.
+[2458.42 - 2461.42]  Es como un producto bueno.
+[2461.42 - 2464.42]  Como que vayan a vender un producto ISO.
+[2464.42 - 2466.42]  No, nadie te lo cuestiona.
+[2469.42 - 2472.42]  Me parece que han tenido prácticas más en la de lobby.
+[2472.42 - 2475.42]  Eso pasa en toda la familia.
+[2476.22 - 2479.22]  Tampoco.
+[2479.22 - 2482.22]  Bueno, sin ninguna industria ni una empresa.
+[2482.22 - 2483.22]  No tarda.
+[2483.22 - 2486.22]  Uy, lo he dejado fumar hace tiempo.
+[2488.22 - 2492.22]  Vamos a pasar como a otra dimensión ahora de la entrevista.
+[2492.22 - 2496.22]  Es como entre gobernantes hay un poco de justicia ambiental.
+[2499.22 - 2502.22]  Son las que medidas consideran necesarias
+[2503.02 - 2507.02]  para garantizar que los proyectos de los créditos de carbono
+[2507.02 - 2513.02]  se implementen de buena manera y que beneficien un poco más allá a las comunidades.
+[2513.02 - 2517.02]  Un poco conectarlo con lo que hablamos anteriormente.
+[2517.02 - 2519.02]  Todo eso.
+[2519.02 - 2520.02]  Sí.
+[2520.02 - 2522.02]  No, y este...
+[2522.02 - 2528.02]  Creo que sería redundante y podría partir diciendo lo contrario de lo que te dije anterior.
+[2528.02 - 2529.02]  No.
+[2529.82 - 2532.82]  Como se llama...
+[2532.82 - 2538.82]  La única forma que yo conozco, digamos, o que entiendo
+[2538.82 - 2544.82]  de que tú le puedes agregar valor a las comunidades
+[2544.82 - 2546.82]  donde están insertos los proyectos
+[2546.82 - 2550.82]  es a través de cubrir más objetivos de sustentabilidad.
+[2550.82 - 2555.82]  Otras cosas que también yo creo que tú
+[2555.82 - 2558.82]  que conoces mejor que yo, digamos
+[2559.62 - 2561.62]  debe ser el tema de...
+[2563.62 - 2568.62]  de que estamos en un proceso que se aceleró de cambio climático.
+[2568.62 - 2570.62]  Y...
+[2572.62 - 2574.62]  Y tenemos que tomar dos decisiones.
+[2574.62 - 2578.62]  Uno es tratar de retrasar el cambio climático
+[2578.62 - 2582.62]  y otros anticiparlos a los cambios que puede haber por el cambio climático.
+[2582.62 - 2585.62]  O sea, hay como en esas dos metas.
+[2586.42 - 2588.42]  Entonces, de repente puedes tener un proyecto
+[2588.42 - 2590.42]  que se mueva en esos...
+[2590.42 - 2593.42]  que se mueva en esos dos aspectos, digamos.
+[2593.42 - 2595.42]  O sea, que le ayuda a la comunidad
+[2595.42 - 2598.42]  y al mismo tiempo está retrasando el cambio climático
+[2598.42 - 2603.42]  o, de alguna forma, también está ayudando a que, no sé, a parar la desertificación.
+[2604.42 - 2605.42]  ¿Sabes?
+[2605.42 - 2609.42]  Está haciendo una resiliencia en mi escancha.
+[2609.42 - 2612.42]  Hace lo que yo desde mi perspectiva, digamos.
+[2613.22 - 2617.22]  No sé si sabes, dentro de tu conocimiento como broker
+[2617.22 - 2621.22]  si las comunidades participan en procesos de decisiones
+[2621.22 - 2625.22]  cuando se están implementando los proyectos
+[2625.22 - 2629.22]  o es meramente decoroso, ¿cómo se pasa?
+[2629.22 - 2630.22]  No, no, no.
+[2630.22 - 2634.22]  Yo entiendo, de repente, que, por ejemplo, tú puedes tener un proyecto
+[2634.22 - 2637.22]  y el proyecto pasa por una comunidad
+[2637.22 - 2640.22]  donde, de repente, son más propietarios
+[2641.02 - 2644.02]  y los que desarrollan el proyecto
+[2644.02 - 2647.02]  tienen que darle una gobernanza a esas comunidades
+[2647.02 - 2651.02]  tienen que generar una gobernanza para que se tomen decisiones.
+[2651.02 - 2655.02]  Así que me imagino que es desafiante para las comunidades.
+[2657.02 - 2659.02]  La última parte de la entrevista
+[2659.02 - 2663.02]  más o menos como un poco la visión a futuro de todo esto
+[2663.02 - 2667.02]  también pensando en las comunidades
+[2667.82 - 2670.82]  ¿Qué conflictos podrían darse a futuro en Chile
+[2670.82 - 2673.82]  con todo este tema de las comunidades
+[2673.82 - 2676.82]  pensando que todo este mercado de los créditos de carbono
+[2676.82 - 2678.82]  está creciendo un montón?
+[2678.82 - 2680.82]  Mientras que las cosas crecen, como hablábamos de veras
+[2680.82 - 2682.82]  también aumentan las controversias.
+[2682.82 - 2684.82]  Sí, claro.
+[2686.82 - 2690.82]  No sé qué conflictos podrías visualizar tú a futuro.
+[2693.82 - 2695.82]  Quizás como evidencia comparada con otros países
+[2695.82 - 2697.82]  como quieras abordarlo.
+[2698.82 - 2700.82]  A ver, yo creo que
+[2701.82 - 2706.82]  para que esto siga un flujo constante y normal
+[2708.82 - 2712.82]  de parte ya no puede afectar la pata económica y social.
+[2714.82 - 2717.82]  O sea, tiene que ser desarrollado de la forma
+[2717.82 - 2720.82]  tan inteligente, digo
+[2721.82 - 2727.82]  que no puede afectar, digamos, en esas tres patas que te comenté.
+[2734.82 - 2737.82]  Entonces, en cierta medida, por ejemplo, tú vas
+[2737.82 - 2740.82]  si tú tienes un mercado europeo, digamos,
+[2742.82 - 2747.82]  y van a poner restricciones a los productos
+[2747.82 - 2749.82]  que se han procesado en países
+[2750.82 - 2754.82]  que no cumplen estándares parecidos a los europeos
+[2754.82 - 2756.82]  van a poner un arancel.
+[2756.82 - 2761.82]  Se llama de borde, se llama algo así como costo de borde frontera.
+[2763.82 - 2767.82]  Se me olvida los conceptos, pero que son hartos en este mercado
+[2767.82 - 2769.82]  de acordarte de miles de cosas.
+[2772.82 - 2775.82]  De repente tú dices, voy a hacer cosas que me permitan ser
+[2775.82 - 2778.82]  mejor competidor para llegar a más mercados.
+[2778.82 - 2781.82]  O sea, eso está súper bien.
+[2783.82 - 2786.82]  Voy a desarrollar proyectos en las comunidades para que otros
+[2786.82 - 2789.82]  para que vengan a comprar créditos y más caros.
+[2790.82 - 2793.82]  Pero yo tratando de no bajar la competitividad de mi industria
+[2793.82 - 2797.82]  ya que mi industria lo trata de hacer mejor como la mejor que pueda.
+[2799.82 - 2802.82]  Y ofrecer mi producto.
+[2804.82 - 2806.82]  La batalla cultural en esto ya se ganó.
+[2806.82 - 2810.82]  O sea, cuando yo veo, es una típica entrevista,
+[2810.82 - 2815.82]  o sea, un trabajo de opinión de Peloitte,
+[2815.82 - 2820.82]  donde levantan estadísticas y dicen que los menores de 40
+[2820.82 - 2824.82]  en un 60% toman decisiones de consumo,
+[2824.82 - 2831.82]  o dónde van a trabajar en función a acciones de mitigación de ISG, digamos.
+[2831.82 - 2836.82]  Pero ojo que ellos no se hacen cargo de todo.
+[2836.82 - 2840.82]  Oye, los estados y las empresas tienen que hacer cargo de este problema.
+[2840.82 - 2847.82]  Entonces, si usted tiene que dar esa fortaleza, no hay bajo.
+[2847.82 - 2851.82]  Y si usted tiene que dar ese producto,
+[2851.82 - 2856.82]  si yo parto desarrollándome con mayores y mejores habilidades
+[2856.82 - 2858.82]  o mejores actitudes en mi producto,
+[2858.82 - 2860.82]  al momento que hay una decisión de consumo,
+[2860.82 - 2863.82]  elija mi producto en vez de la competencia.
+[2863.82 - 2864.82]  ¿Estás ahí, no?
+[2864.82 - 2865.82]  Claro.
+[2865.82 - 2868.82]  Entonces, ciertamente, lo que te quería decir es que como desafío,
+[2868.82 - 2873.82]  es que por un lado el mercado te va a privilegiar,
+[2873.82 - 2877.82]  dice que te va a privilegiar si es que tú cumples los atributos
+[2877.82 - 2882.82]  que espera que se alineen con lo que ellos piensan, digamos.
+[2882.82 - 2886.82]  Y llegar al mercado, no es un problema.
+[2887.82 - 2890.82]  Llegar al mercado donde te están exigiendo cosas más estrictas
+[2890.82 - 2894.82]  en términos ambientales también te va a dar un atributo.
+[2894.82 - 2898.82]  Poder facilitar el ingreso de compra de créditos
+[2898.82 - 2900.82]  a países que tienen impuestos más altos
+[2900.82 - 2904.82]  y que se los quieran llevar, perfecto, que lo hagan.
+[2904.82 - 2907.82]  Poder generar más electricidad.
+[2909.82 - 2913.82]  Y que si a esa generación de fuente renovada le falta
+[2913.82 - 2917.82]  un fuerte ingreso para mejorar la rentabilidad,
+[2917.82 - 2921.82]  hagámoslo, no hay que tener esa alerta.
+[2921.82 - 2924.82]  Que si vaya a hacer un manejo de basura
+[2924.82 - 2927.82]  y ese manejo de basura va a permitir que los verteros
+[2927.82 - 2931.82]  nos sigan creciendo y que la contaminación nos siga avanzando
+[2931.82 - 2933.82]  y que vaya a poder tomar mejores productos
+[2933.82 - 2936.82]  y los vaya a poder reciclar y generar una economía circular
+[2936.82 - 2939.82]  alrededor de esa industria, perfecto.
+[2939.82 - 2943.82]  Lo único que te quiero hacer es, tienes mucho por hacer,
+[2943.82 - 2947.82]  mucho por avanzar, pero tienes que hacerlo de la forma más inteligente
+[2947.82 - 2951.82]  o si no van a salir los globalistas de la agenda 2030,
+[2951.82 - 2953.82]  que están cuidados de la ONU,
+[2953.82 - 2955.82]  porque no estamos preocupando de contaminar
+[2955.82 - 2957.82]  cuando los países del norte ya contaminaron
+[2957.82 - 2960.82]  todo lo que tenían que hacer y salieron y son desarrollados.
+[2960.82 - 2964.82]  Entonces tuviese que en cierta medida son eslóganes super baratos
+[2964.82 - 2968.82]  y super rabios, porque al final arriba del Titanic vamos todos, digamos.
+[2969.82 - 2970.82]  Se va a hundir.
+[2971.82 - 2974.82]  Uno se van a mojar las patitas antes,
+[2974.82 - 2978.82]  pero el buque se está hundiendo y ahora está tocando la banda,
+[2978.82 - 2979.82]  pero se va a hundir.
+[2979.82 - 2982.82]  Entonces todos tenemos que hacer algo,
+[2982.82 - 2985.82]  pero tenés que hacerlo de forma inteligente.
+[2985.82 - 2988.82]  Eso es como el llamado.
+[2988.82 - 2994.82]  No tiene que ser algo super de mercado, como digo yo,
+[2994.82 - 2999.82]  que entre en las capas, que se vaya desarrollando,
+[2999.82 - 3004.82]  que sea inteligente, que le traiga beneficios a todos
+[3004.82 - 3008.82]  y que se entienda el beneficio.
+[3008.82 - 3010.82]  Lo que pasa es que muchas veces,
+[3010.82 - 3012.82]  y esto es super interesante lo que te voy a decir,
+[3012.82 - 3014.82]  porque este es como mi enfoque.
+[3014.82 - 3018.82]  Si tú tienes un negocio y tú generas desechos,
+[3018.82 - 3019.82]  ¿cierto?
+[3019.82 - 3020.82]  Masura.
+[3021.82 - 3025.82]  Tú las dejas afuera de tu negocio, ¿cierto?
+[3025.82 - 3027.82]  A ti te van a hacer la necesidad, por favor,
+[3027.82 - 3030.82]  llévense la basura, porque todo el mundo me está viendo
+[3030.82 - 3032.82]  que tengo basura fuera de mi negocio.
+[3032.82 - 3034.82]  Por favor, llévensela.
+[3034.82 - 3036.82]  No la quiero ver más.
+[3036.82 - 3040.82]  El problema con lo que hace efecto en verdadero es que no se ven.
+[3041.82 - 3045.82]  Pero en cierta medida tú lo tienes que hacer de alguna forma.
+[3045.82 - 3047.82]  La gente tiene que entender que están ahí
+[3047.82 - 3049.82]  y alguien los tiene que capturar.
+[3049.82 - 3051.82]  Alguien se los tiene que llevar a un vertedero.
+[3051.82 - 3053.82]  Alguien tiene que hacer algo.
+[3056.82 - 3059.82]  El CO2 es un desecho de la actividad.
+[3060.82 - 3062.82]  Y para que ese desecho,
+[3062.82 - 3064.82]  tiene que haber un sumidero que lo reciba,
+[3064.82 - 3066.82]  que los atrape,
+[3066.82 - 3069.82]  o que los transforme de nuevo en oxígeno.
+[3069.82 - 3072.82]  Entonces, ese es el concepto que yo te quiero transmitir
+[3072.82 - 3075.82]  de mi humilde opinión,
+[3075.82 - 3078.82]  que están dadas las condiciones
+[3078.82 - 3080.82]  para que esto mejore,
+[3080.82 - 3082.82]  pero si lo haces de forma poco inteligente,
+[3082.82 - 3084.82]  te puede pasar lo de Sri Lanka.
+[3084.82 - 3086.82]  ¿Has visto el ejemplo de Sri Lanka?
+[3086.82 - 3088.82]  El de Sri Lanka no lo conozco.
+[3088.82 - 3090.82]  Es que estoy casi seguro que es Sri Lanka.
+[3094.82 - 3098.82]  También sería interesante cómo ver las oportunidades,
+[3098.82 - 3100.82]  cómo también que hay,
+[3100.82 - 3102.82]  respecto a la participación de las comunidades,
+[3102.82 - 3104.82]  en este mercado.
+[3104.82 - 3106.82]  ¿O conocer?
+[3106.82 - 3108.82]  ¿También pensar algo como desde ahí?
+[3110.82 - 3112.82]  Ya, por ejemplo, en Sri Lanka
+[3112.82 - 3114.82]  hicieron un manejo
+[3114.82 - 3116.82]  muy distrito, ambiental.
+[3118.82 - 3120.82]  Y qué pasó?
+[3120.82 - 3122.82]  Que era un país que se dedicaba mucho a la agronomía.
+[3122.82 - 3124.82]  Entonces se dedicaron a hacer todos los cultivos
+[3124.82 - 3128.82]  super ambientales, fríeles y todo el tema.
+[3128.82 - 3130.82]  Y con eso disminuyó la producción.
+[3130.82 - 3132.82]  Y al disminuir la producción,
+[3132.82 - 3134.82]  la gente, los productos encarecieron
+[3134.82 - 3136.82]  y a los productores se les partió
+[3136.82 - 3138.82]  generando menos ingresos.
+[3138.82 - 3140.82]  Y cayó el régimen.
+[3140.82 - 3142.82]  Cayó, cayó, cayó, cayó.
+[3142.82 - 3144.82]  Cayó el gobierno.
+[3144.82 - 3146.82]  Entonces, ponte estricto
+[3146.82 - 3148.82]  y vayas a reventar tu economía
+[3148.82 - 3150.82]  y el pueblo se va a saltar encima.
+[3150.82 - 3152.82]  Está ahí.
+[3152.82 - 3154.82]  No, por ejemplo, el de Sri Lanka
+[3154.82 - 3156.82]  no lo conozco.
+[3156.82 - 3158.82]  No, no lo conozco.
+[3158.82 - 3160.82]  Para ir terminando,
+[3160.82 - 3162.82]  como te decía, no sé si ves oportunidades
+[3162.82 - 3164.82]  emergentes
+[3164.82 - 3166.82]  o que ya sean cosas que estén haciendo
+[3166.82 - 3168.82]  respecto a la participación de las comunidades
+[3168.82 - 3170.82]  en todo este mercado.
+[3170.82 - 3172.82]  Yo creo que las comunidades en cierta medida
+[3172.82 - 3174.82]  no lo han visto directamente.
+[3174.82 - 3176.82]  Yo creo que una comunidad
+[3176.82 - 3178.82]  si tú dentro de la comunidad
+[3178.82 - 3180.82]  no lo has visto,
+[3180.82 - 3182.82]  no lo has visto,
+[3182.82 - 3184.82]  no lo has visto,
+[3184.82 - 3186.82]  no lo has visto, no lo has visto.
+[3186.82 - 3188.82]  Yo estoy si tú dentro
+[3188.82 - 3190.82]  de un ambiente
+[3190.82 - 3192.82]  con educación completa
+[3192.82 - 3194.82]  y yo hace cinco años atrás
+[3194.82 - 3196.82]  no conocía este tema y no lo entendía.
+[3196.82 - 3198.82]  Y me ha costado entenderlo
+[3198.82 - 3200.82]  porque es rudo en terminología,
+[3200.82 - 3202.82]  en todo lo conceptual.
+[3204.82 - 3206.82]  O sea, van a haber,
+[3206.82 - 3208.82]  van a tener que haber personas que hagan
+[3208.82 - 3210.82]  la bajada a las comunidades para poder hacerlo
+[3210.82 - 3212.82]  y implementarlo. O sea, yo creo que la
+[3212.82 - 3214.82]  barrera, la primera barrera de todo esto
+[3214.82 - 3216.82]  es comunicacional
+[3216.82 - 3218.82]  y de educar.
+[3220.82 - 3222.82]  Bueno, entonces, claro,
+[3222.82 - 3224.82]  el último punto
+[3224.82 - 3226.82]  sería
+[3226.82 - 3228.82]  entonces el aporte que podrían
+[3228.82 - 3230.82]  generar las comunidades.
+[3230.82 - 3232.82]  Antes incluso de pensar en aportar
+[3232.82 - 3234.82]  tendrían que pensar
+[3234.82 - 3236.82]  como en conocer esto.
+[3236.82 - 3238.82]  Es lo que me dice esto.
+[3238.82 - 3240.82]  O sea, primero hay toda una difusión.
+[3240.82 - 3242.82]  Hay todo un problema de
+[3242.82 - 3244.82]  decir, oye, ¿cuáles son los atributos de esto?
+[3244.82 - 3246.82]  ¿Cuál es lo bueno? ¿De qué se trata?
+[3246.82 - 3248.82]  ¿Por qué es transparente? ¿Por qué es bueno? ¿Por qué se hace?
+[3248.82 - 3250.82]  ¿Por qué
+[3250.82 - 3252.82]  nos tenemos que ajustar como una comunidad?
+[3252.82 - 3254.82]  ¿Por qué tenemos que empujar para allá?
+[3254.82 - 3256.82]  Pero por otro lado, una comunidad que
+[3256.82 - 3258.82]  genera créditos
+[3258.82 - 3260.82]  y no demanda sus créditos, ¿de qué sirve?
+[3260.82 - 3262.82]  Frustración, la cuestión no sirve para nada.
+[3262.82 - 3264.82]  Entonces, tenés que trabajar.
+[3264.82 - 3266.82]  Que hay un mercado que tiene que
+[3266.82 - 3268.82]  un consumidor que le tiene que exigir
+[3268.82 - 3270.82]  a la empresa, que quiere productos con esa
+[3270.82 - 3272.82]  con esos atributos. Por otro lado,
+[3272.82 - 3274.82]  tiene que estar el Estado que
+[3274.82 - 3276.82]  hace un incentivo a través de
+[3276.82 - 3278.82]  impuestos. Y así tiene que irse
+[3278.82 - 3280.82]  generando todo. No es
+[3280.82 - 3282.82]  una solución que nace de una sola punta.
+[3282.82 - 3284.82]  No es una solución de una sola punta.
+[3286.82 - 3288.82]  Yo estoy en una parte de la cadenita en que digo
+[3288.82 - 3290.82]  oye, proyecto
+[3290.82 - 3292.82]  tú necesitas comprar el crédito, yo
+[3292.82 - 3294.82]  te lo voy a vender. Vender crédito, yo te lo voy a vender.
+[3294.82 - 3296.82]  Y voy a ir a la industria y le digo,
+[3296.82 - 3298.82]  oye, tú quieres comprar crédito, yo te voy a mostrar varios productos.
+[3298.82 - 3300.82]  Yo estoy en ese punto, imagínate, estoy en un
+[3300.82 - 3302.82]  pedacito así de todo lo que hemos hablado.
+[3302.82 - 3304.82]  Hay gente que está midiendo,
+[3304.82 - 3306.82]  otro que está certificando, otro que está
+[3306.82 - 3308.82]  generando proyectos, otro que está generando
+[3308.82 - 3310.82]  proyectos. Mucha gente involucrada
+[3310.82 - 3312.82]  para poder decir
+[3312.82 - 3314.82]  compré un crédito de
+[3314.82 - 3316.82]  carbono y compré ese mi huella.
+[3316.82 - 3318.82]  O sea, eso pasa mucho detrás.
+[3320.82 - 3322.82]  O sea, no sé lo que pasa por las comunidades.
+[3322.82 - 3324.82]  Eso es lo que me parece.
+[3324.82 - 3326.82]  Sí, claro, de todas maneras.
+[3326.82 - 3328.82]  Bueno, esas eran las preguntas de la
+[3328.82 - 3330.82]  entrevista.
+[3330.82 - 3332.82]  Muchas gracias por tu
+[3332.82 - 3334.82]  participación. Nos extendimos
+[3334.82 - 3336.82]  un poco, pero yo de verdad agradeció.
+[3338.82 - 3340.82]  Que me haya accedido.
+[3340.82 - 3342.82]  Sí, sí, no, todo me sirve
+[3342.82 - 3344.82]  porque todas estas
+[3344.82 - 3346.82]  cosas hay que estudiarlas más a fondo,
+[3346.82 - 3348.82]  hay que mapearlas porque no están bien mapeadas.
+[3348.82 - 3350.82]  Entonces,
+[3350.82 - 3352.82]  para allá va el norte de Mitesi.
+[3352.82 - 3354.82]  Cuando tenga la grabación, me la puedes compartir.
+[3354.82 - 3356.82]  Yo trabajo con una persona que me hace todo el...
+[3364.82 - 3366.82]  ¿Cómo se llama? Que me hace todo el trabajo
+[3366.82 - 3368.82]  comunicacional. Entonces, de repente,
+[3368.82 - 3370.82]  yo hablando más
+[3370.82 - 3372.82]  suelto, de repente salen cosas
+[3372.82 - 3374.82]  que él dice, oye, esta buena para que
+[3374.82 - 3376.82]  Mario la trabaja
+[3376.82 - 3378.82]  o la explote o...
+[3378.82 - 3380.82]  Mira qué interesante lo que es con Mario
+[3380.82 - 3382.82]  y lo transforma en un post.
+[3382.82 - 3384.82]  Sí, yo te la paso
+[3384.82 - 3386.82]  por WeTransfer, te mando el video completo,
+[3386.82 - 3388.82]  el cross.
+[3388.82 - 3390.82]  Ahí ustedes ven qué le sirve,
+[3390.82 - 3392.82]  qué no le sirve. Excelente, se agradece.
+[3392.82 - 3394.82]  Sí, y agradecido a ti también.
+[3394.82 - 3396.82]  Bueno, una vez más,
+[3396.82 - 3398.82]  muchas gracias.
+[3398.82 - 3400.82]  A Fran ya le dije así como, oye,
+[3400.82 - 3402.82]  está bacán el Mario,
+[3402.82 - 3404.82]  se nota que cacha.
+[3404.82 - 3406.82]  Así que... Ya, nos veremos.
+[3406.82 - 3408.82]  No, sí, de verdad sí.
+[3408.82 - 3410.82]  Ahora voy a
+[3410.82 - 3412.82]  cortar la grabación.

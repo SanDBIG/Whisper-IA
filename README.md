@@ -53,6 +53,7 @@ leer la documentación de whisper para adecuar la ejecución a tu computador htt
 
 
 6.- Revisar capacidades para ejecutar el modelo
+
     En caso de que exista algún error fuera de lo descrito en esta documentación, visitar la
     documentación propia de whisper.
     https://github.com/openai/whisper
