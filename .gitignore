@@ -1,3 +1,15 @@
+#Ignorar contenido interno de las carpetas pero manteniendolas
+
+Data/*
+!Data/.gitkeep
+
+Processed/*
+!Processed/.gitkeep
+
+Transcription/*
+!Transcription/.gitkeep
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
