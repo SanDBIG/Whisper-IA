@@ -1,93 +1,243 @@
-# Whisper-IA
- Este repositorio es para ejecutar a nivel local el modelo Whisper para transcribir audios de entrevistas para una tesis.
- Visitar requirements.txt para leer los apartados tecnicos necesarios para replicar esta ejecución de manera adecuada.
+# Whisper-IA: Instalación Local en Windows (GPU NVIDIA)
 
-Para informarte de manera previa sobre el funcionamiento, capacidades y requisitos de whisper
-se recomienda visitar y leer detenidamente la documentación:
-https://github.com/openai/whisper
+Este repositorio está diseñado para ejecutar el modelo **Whisper** de OpenAI a nivel local, con aceleración por GPU NVIDIA (en este caso, una RTX 3070 Ti). El objetivo es transcribir audios de entrevistas para una tesis.
 
-Para ejecutar el modelo de whisper son necesarios diferentes pasos previos de instalación de 
-diferentes complementos previos, la presente documentación apunta a la ejecución de whisper
-mediante python en una tarjeta de video nvidia 3070ti, si no posees los conocimientos suficientes
-no ejecutes todo el apartado de instrucciones a continuación, ya que te puede llevar a no tener
-resultados, un resultado no esperado, o mal lograr tu computador.
+---
 
-En caso contrario, debes adecuar el apartado técnico al nivel de tu hardware, nuevamente se recomienda
-leer la documentación de whisper para adecuar la ejecución a tu computador https://github.com/openai/whisper
+## ¡Advertencia!
 
-#-----------Requisitos previos de y Comandos de Instalacion-----------------------------------
+Este proceso involucra instalaciones delicadas a nivel del sistema. Si no cuentas con experiencia suficiente, te recomendamos no continuar sin respaldo técnico, ya que podrías obtener resultados inesperados o dañar tu entorno de trabajo.
 
-1.- Instalar Python 3.11.0
-    Descarga Python 3.11 desde el sitio oficial.
-    Asegúrate de marcar la opción Add Python to PATH durante la instalación.
+Todos los pasos han sido probados y verificados para funcionar en **Windows 10/11**, con **Python 3.11.9**, **CUDA 11.8**, **cuDNN 9.0.1**, y **FFmpeg 7.1.1**.
 
+---
 
-2.- Instalar CUDA Toolkit 11.8
-    Descarga CUDA Toolkit 11.8 desde el archivo de descargas de NVIDIA.
-    https://developer.nvidia.com/cuda-toolkit-archive
-    Durante la instalación, agrega las rutas al PATH del sistema.
-    Adicionalmente instalar cuDNN que sea compatible con lo previamente instalado
-    https://docs.nvidia.com/deeplearning/cudnn/latest/installation/windows.html
-    Verificar versiones compatibles entre cuda y cuDNN aqui
-    https://docs.nvidia.com/deeplearning/cudnn/latest/reference/support-matrix.html#support-matrix
+## 1. Requisitos Generales
 
-3.- Instalar PyTorch Compatible con CUDA 11.8
-    Ejecuta el siguiente comando en cmd para instalar PyTorch:
-    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+### Documentación oficial
 
+* Whisper: [https://github.com/openai/whisper](https://github.com/openai/whisper)
 
-4.- Instalar FFmpeg
-    Descarga FFmpeg desde ffmpeg.org https://ffmpeg.org/download.html
-    Agrega la ruta de la carpeta bin a las variables de entorno del sistema (PATH).
-    
+### Hardware requerido
 
-5.- Instalar Whisper
+* GPU NVIDIA con soporte CUDA (recomendado: 8GB VRAM o más)
+* Procesador compatible con instrucciones AVX2
 
-    Instala el modelo Whisper desde el repositorio oficial:
-    El siguiente comando instalara el ultimo commit del repositorio, en las dependencias
-    de python, hazlo mediante cmd.
-    pip install git+https://github.com/openai/whisper.git
+---
 
-    Para instalar la ultima version del paquete del repositorio de whisper ejecutar en cmd:
-    pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+## 2. Instalación Paso a Paso
 
+### 1. Instalar Python 3.11.9
 
-6.- Revisar capacidades para ejecutar el modelo
+Descargar desde:
+[https://www.python.org/downloads/release/python-3119/](https://www.python.org/downloads/release/python-3119/)
 
-    En caso de que exista algún error fuera de lo descrito en esta documentación, visitar la
-    documentación propia de whisper.
-    https://github.com/openai/whisper
+Durante la instalación, activar la opción:
 
-#-------------Comandos de Verificacion de Complementos------------------------------------------
+```
+[✔] Add Python to PATH
+```
 
+Verificación:
 
-1.- Verificar Python
-    En cmd ejectuar:
-    python --version
-    Esto debe devolver Python 3.11.0.
+```cmd
+python --version
+# Esperado: Python 3.11.9
+```
 
-2.- Verificar CUDA
-    En CMD, verifica la instalación de CUDA y la compatibilidad de la GPU:
-    nvidia-smi
-    Esto debe mostrar la versión de CUDA soportada por los controladores.
+---
 
-3.- Verificar PyTorch
-    Ejecuta Python e importa PyTorch para verificar la detección de CUDA:
-    import torch
-    print(torch.cuda.is_available())  # Debe devolver True
-    print(torch.version.cuda)         # Debe devolver '11.8'
+### 2. Instalar CUDA Toolkit 11.8
 
-4.- Verificar FFmpeg
-    Verifica que FFmpeg esté accesible desde cmd:
-    ffmpeg -version
-    Esto debe mostrar la versión instalada de FFmpeg.
+Descargar desde:
+[https://developer.nvidia.com/cuda-11-8-0-download-archive](https://developer.nvidia.com/cuda-11-8-0-download-archive)
 
-5.- Verificar Whisper
-    Prueba importar Whisper en python:
-    import whisper
-    model = whisper.load_model("base")  # Verifica que carga sin errores
+Instalación:
 
-6.- Revisar capacidades para ejecutar el modelo
-    En caso de que exista algún error fuera de lo descrito en esta documentación, visitar la
-    documentación propia de whisper.
-    https://github.com/openai/whisper
+* Elegir "custom" solo si sabes lo que haces
+* Confirmar que se instalen `nvcc` y `nvml`
+
+Verificación:
+
+```cmd
+nvcc --version
+```
+
+Esperado:
+
+```
+Cuda compilation tools, release 11.8, V11.8.89
+```
+
+---
+
+### 3. Instalar cuDNN compatible (v9.0.1 para CUDA 11.x)
+
+Descargar desde:
+[https://developer.nvidia.com/rdp/cudnn-archive](https://developer.nvidia.com/rdp/cudnn-archive)
+
+Se usó:
+
+```
+cudnn-windows-x86_64-9.0.1.52_cuda11-archive
+```
+
+Copiar los siguientes directorios dentro de la ruta de instalación de CUDA (por ejemplo `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8`):
+
+* `bin/` ➔ `bin/`
+* `include/` ➔ `include/`
+* `lib/` ➔ `lib/`
+
+Confirmar que los DLLs como `cudnn64_8.dll` estén en la carpeta `bin/` de CUDA.
+
+---
+
+### 4. Instalar PyTorch compatible con CUDA 11.8
+
+Desde CMD o PowerShell:
+
+```bash
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+Verificación en Python:
+
+```python
+import torch
+print(torch.cuda.is_available())  # True
+print(torch.version.cuda)         # 11.8
+print(torch.backends.cudnn.version())  # 90100 (corresponde a cuDNN 9.0.1)
+```
+
+---
+
+### 5. Instalar FFmpeg 7.1.1 (Essentials Build)
+
+Descargar desde:
+[https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
+
+Seleccionar:
+
+```
+ffmpeg-7.1.1-essentials_build.7z
+```
+
+Extraer y mover el contenido a una carpeta como:
+
+```
+C:\ffmpeg\ffmpeg-7.1.1-essentials_build
+```
+
+Agregar al `PATH` del sistema:
+
+```
+C:\ffmpeg\ffmpeg-7.1.1-essentials_build\bin
+```
+
+Verificación:
+
+```cmd
+ffmpeg -version
+```
+
+Esperado:
+
+```
+ffmpeg version 7.1.1-essentials_build-www.gyan.dev [...]
+```
+
+---
+
+### 6. Instalar Whisper desde el repositorio oficial
+
+```bash
+pip install git+https://github.com/openai/whisper.git
+```
+
+(Si deseas actualizar forzadamente)
+
+```bash
+pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+```
+
+---
+
+## 3. Configuración en Visual Studio Code
+
+* Abrir el proyecto.
+* Crear un entorno virtual opcional:
+
+```bash
+python -m venv venv
+```
+
+* Activar el entorno:
+
+```bash
+.\venv\Scripts\activate
+```
+
+* Verificar que esté seleccionada la versión de Python correcta (3.11.9)
+* Asegurarse de ejecutar desde la terminal de VS Code, no desde Windows CMD
+
+---
+
+## 4. Comandos de Verificación
+
+### Python:
+
+```cmd
+python --version
+# Python 3.11.9
+```
+
+### CUDA:
+
+```cmd
+nvcc --version
+# release 11.8
+```
+
+### PyTorch:
+
+```python
+import torch
+print(torch.cuda.is_available())  # True
+print(torch.version.cuda)         # '11.8'
+print(torch.backends.cudnn.version())  # 90100
+```
+
+### FFmpeg:
+
+```cmd
+ffmpeg -version
+# ffmpeg version 7.1.1-essentials_build
+```
+
+### Whisper:
+
+```python
+import whisper
+model = whisper.load_model("base")
+```
+
+---
+
+## 5. Documentación Adicional
+
+* Whisper GitHub: [https://github.com/openai/whisper](https://github.com/openai/whisper)
+* FFmpeg Builds: [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
+* CUDA Archive: [https://developer.nvidia.com/cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)
+* cuDNN Archive: [https://developer.nvidia.com/rdp/cudnn-archive](https://developer.nvidia.com/rdp/cudnn-archive)
+* Matriz de compatibilidad CUDA/cuDNN: [https://docs.nvidia.com/deeplearning/cudnn/support-matrix/index.html](https://docs.nvidia.com/deeplearning/cudnn/support-matrix/index.html)
+
+---
+
+**Fin de la Guía**
+
+---
+
+🛠️ Documento preparado por: **Diego Iturrieta Gajardo**  
+📅 Fecha de finalización del entorno: **05 de mayo de 2025**  
+💻 GPU utilizada: **NVIDIA GeForce RTX 3070 Ti**  
+🧠 Proyecto académico: **Transcripción de entrevistas para tesis con Whisper (OpenAI)**  
