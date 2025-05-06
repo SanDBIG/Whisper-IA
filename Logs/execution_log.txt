@@ -105,3 +105,10 @@
 2025-04-12 23:15:45,781 - INFO - Procesando archivo: Maria Consuelo Entrevista.mp3
 2025-04-12 23:15:45,799 - INFO - Dispositivo seleccionado: cuda
 2025-04-12 23:20:08,787 - INFO - Transcripción completada: d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Data/Maria Consuelo Entrevista.mp3 -> d:\Universidad\2024 Segundo Semestre\Tesis\Whisper-IA\Scripts\../Transcription/Maria Consuelo Entrevista_transcription.txt
+2025-05-05 21:37:13,442 - INFO - Procesando archivo: allan01.mp3.mp3
+2025-05-05 21:37:13,455 - INFO - Dispositivo seleccionado: cuda
+2025-05-05 21:40:19,295 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\allan01.mp3.mp3 -> d:\Portafolio\Whisper-IA\Transcription\allan01.mp3_transcription.txt
+2025-05-05 21:41:56,455 - INFO - Procesando archivo: allan01.mp3.mp3
+2025-05-05 21:41:56,466 - INFO - Dispositivo seleccionado: cuda
+2025-05-05 21:57:51,328 - INFO - Dispositivo seleccionado: cuda
+2025-05-05 22:18:13,704 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Cuidadoras_Curacavi.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Cuidadoras_Curacavi_transcription.txt

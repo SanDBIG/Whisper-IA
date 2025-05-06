@@ -3,75 +3,99 @@ import torch
 import os
 import logging
 
-# Obtener la ruta base del script
+# ===============================
+# CONFIGURACIÓN Y PREPARACIÓN
+# ===============================
+
+# Ruta base del script
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
-# Definir rutas relativas basadas en la ubicación del script
-log_folder = os.path.join(base_dir, "../Logs/")
-data_folder = os.path.join(base_dir, "../Data/")
-transcription_folder = os.path.join(base_dir, "../Transcription/")
+# Rutas internas del proyecto (ahora correctamente relativas)
+log_folder = os.path.join(base_dir, "Logs")
+data_folder = os.path.join(base_dir, "Data")
+transcription_folder = os.path.join(base_dir, "Transcription")
 log_file = os.path.join(log_folder, "execution_log.txt")
 
 # Crear carpetas si no existen
+print("🔧 Verificando y creando carpetas necesarias...")
 for folder in [log_folder, data_folder, transcription_folder]:
-    if not os.path.exists(folder):
-        os.makedirs(folder)
+    os.makedirs(folder, exist_ok=True)
 
-# Verificar si el archivo de logs existe, si no, crearlo vacío
+# Crear archivo de log si no existe
 if not os.path.exists(log_file):
-    with open(log_file, "w") as f:
-        f.write("")  # Crear un archivo vacío
+    open(log_file, "w").close()
 
-# Configurar logging para guardar los logs en el archivo
+# Configuración de logging
 logging.basicConfig(
     filename=log_file,
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+# ===============================
+# FUNCIÓN PRINCIPAL DE TRANSCRIPCIÓN
+# ===============================
+
 def transcribe_audio(file_path, output_file):
     try:
-        # Verificar si CUDA está disponible para usar la GPU
+        # Selección automática de dispositivo
         device = "cuda" if torch.cuda.is_available() else "cpu"
         logging.info(f"Dispositivo seleccionado: {device}")
-        print(f"Dispositivo seleccionado: {device}")
-        
-        # Cargar el modelo "medium" de Whisper especificando el dispositivo
+        print(f"📌 Dispositivo seleccionado: {device}")
+
+        # Cargar modelo medium
         model = whisper.load_model("medium", device=device)
-        
-        # Configurar el idioma español y otras opciones
+        print("📥 Modelo cargado correctamente en", device)
+
+        # Opciones de transcripción
         options = {
             "language": "es",
-            "task": "transcribe"  # 'transcribe' para transcripción
+            "task": "transcribe"
         }
-        
-        # Procesar el archivo de audio y transcribir con timestamps
+
+        print(f"🎧 Transcribiendo archivo: {file_path}")
         result = model.transcribe(file_path, **options)
-        
-        # Guardar la transcripción con timestamps en un archivo de texto
+
         with open(output_file, "w", encoding="utf-8") as f:
             for segment in result["segments"]:
                 start = segment["start"]
                 end = segment["end"]
                 text = segment["text"]
                 f.write(f"[{start:.2f} - {end:.2f}] {text}\n")
-        
-        # Mensaje de confirmación
+
+        print(f"✅ Transcripción completada: {output_file}")
         logging.info(f"Transcripción completada: {file_path} -> {output_file}")
-        print(f"Audio Transcribed: {file_path}")
+
     except Exception as e:
+        print(f"❌ Error durante la transcripción: {e}")
         logging.error(f"Error procesando {file_path}: {e}")
-        print(f"Error procesando {file_path}: {e}")
 
-def process_all_audios(input_folder, output_folder):
-    # Iterar sobre los archivos de la carpeta de entrada
-    for file_name in os.listdir(input_folder):
-        if file_name.endswith((".wav", ".m4a", ".mp3")):  # Extensiones compatibles
-            file_path = os.path.join(input_folder, file_name)
-            output_file = os.path.join(output_folder, f"{file_name.split('.')[0]}_transcription.txt")
-            
-            logging.info(f"Procesando archivo: {file_name}")
-            transcribe_audio(file_path, output_file)
+# ===============================
+# FLUJO PRINCIPAL DEL SCRIPT
+# ===============================
 
-# Procesar todos los audios
-process_all_audios(data_folder, transcription_folder)
+print("🎧 Ingresa el nombre del archivo de audio (sin extensión):")
+file_input = input().strip()
+
+# Extensiones permitidas
+allowed_exts = [".mp3", ".wav", ".m4a"]
+found = False
+file_path = ""
+for ext in allowed_exts:
+    candidate = os.path.join(data_folder, file_input + ext)
+    if os.path.isfile(candidate):
+        file_path = candidate
+        found = True
+        break
+
+if not found:
+    print(f"❌ Archivo no encontrado con ninguna de las extensiones permitidas: {allowed_exts}")
+    logging.warning(f"No se encontró el archivo {file_input} con extensiones {allowed_exts}")
+    print("🏁 Proceso completado.")
+else:
+    # Ruta del archivo de salida
+    output_file = os.path.join(
+        transcription_folder, f"{os.path.basename(file_path).split('.')[0]}_transcription.txt"
+    )
+    transcribe_audio(file_path, output_file)
+    print("🏁 Proceso completado.")
