@@ -237,7 +237,7 @@ model = whisper.load_model("base")
 
 ---
 
-🛠️ Documento preparado por: **Diego Iturrieta Gajardo**  
-📅 Fecha de finalización del entorno: **05 de mayo de 2025**  
-💻 GPU utilizada: **NVIDIA GeForce RTX 3070 Ti**  
-🧠 Proyecto académico: **Transcripción de entrevistas para tesis con Whisper (OpenAI)**  
+Documento preparado por: **Diego Iturrieta Gajardo**  
+Fecha de finalización del entorno: **05 de mayo de 2025**  
+GPU utilizada: **NVIDIA GeForce RTX 3070 Ti**  
+Proyecto académico: **Transcripción de entrevistas para tesis con Whisper (OpenAI)**  
