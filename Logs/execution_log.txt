@@ -112,3 +112,8 @@
 2025-05-05 21:41:56,466 - INFO - Dispositivo seleccionado: cuda
 2025-05-05 21:57:51,328 - INFO - Dispositivo seleccionado: cuda
 2025-05-05 22:18:13,704 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Cuidadoras_Curacavi.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Cuidadoras_Curacavi_transcription.txt
+2026-06-11 18:08:25,766 - INFO - Dispositivo seleccionado: cuda
+2026-06-11 18:14:54,781 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\04-EFECTO-CHINA-OK.mp3 -> d:\Portafolio\Whisper-IA\Transcription\04-EFECTO-CHINA-OK_transcription.txt
+2026-06-11 22:56:41,567 - INFO - Dispositivo seleccionado: cuda
+2026-06-11 22:56:47,846 - INFO - Modelo medium cargado correctamente
+2026-06-11 23:03:02,268 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\04-EFECTO-CHINA-OK.mp3 -> d:\Portafolio\Whisper-IA\Transcription\04-EFECTO-CHINA-OK_transcription.txt
