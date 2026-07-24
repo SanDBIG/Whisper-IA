@@ -117,3 +117,28 @@
 2026-06-11 22:56:41,567 - INFO - Dispositivo seleccionado: cuda
 2026-06-11 22:56:47,846 - INFO - Modelo medium cargado correctamente
 2026-06-11 23:03:02,268 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\04-EFECTO-CHINA-OK.mp3 -> d:\Portafolio\Whisper-IA\Transcription\04-EFECTO-CHINA-OK_transcription.txt
+2026-07-21 23:01:38,711 - WARNING - No se encontró el archivo Javiera (1) con extensiones ['.mp3', '.wav', '.m4a']
+2026-07-21 23:03:47,114 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:03:53,623 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:04:05,323 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_1_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_1__transcription.txt
+2026-07-21 23:05:34,366 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:05:39,865 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:05:55,095 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_2_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_2__transcription.txt
+2026-07-21 23:06:44,904 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:06:50,017 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:07:06,475 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_3_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_3__transcription.txt
+2026-07-21 23:08:59,702 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:09:05,233 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:09:14,758 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_4_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_4__transcription.txt
+2026-07-21 23:09:24,551 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:09:29,992 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:09:45,518 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_5_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_5__transcription.txt
+2026-07-21 23:10:02,389 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:10:07,587 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:10:24,253 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_6_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_6__transcription.txt
+2026-07-21 23:10:49,624 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:10:54,728 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:11:04,554 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_7_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_7__transcription.txt
+2026-07-21 23:11:18,732 - INFO - Dispositivo seleccionado: cuda
+2026-07-21 23:11:23,829 - INFO - Modelo medium cargado correctamente
+2026-07-21 23:11:29,988 - INFO - Transcripción completada: d:\Portafolio\Whisper-IA\Data\Javiera-_8_.mp3 -> d:\Portafolio\Whisper-IA\Transcription\Javiera-_8__transcription.txt
